@@ -1,4 +1,5 @@
-# tarot-mod
+# Tarot - a Minecraft mod
+
 Play with Tarot cards and find clues to their occult origins - a Minecraft mod.
 a work of ♡ by Nion
 
