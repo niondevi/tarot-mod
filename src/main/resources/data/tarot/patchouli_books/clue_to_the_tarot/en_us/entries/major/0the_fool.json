@@ -1,0 +1,35 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 20,
+  "name":"0 - The Fool",
+  "icon":"tarot:the_fool",
+  "extra_recipe_mappings": [["tarot:the_fool",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_0fool.png"],
+      "title": "0 ▪ The Fool ▪ א",
+      "border": false,
+      "text": "        Spirit of Ether"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  With light step, as if earth and its trammels had little power to restrain them, a young person in gorgeous vestments pauses at the brink of a precipice among the great heights of the world; they survey the blue distance before them - its expanse of sky rather than the prospect below.$(br)  Their act of eager walking is still indicated, though they are stationary at the given moment; their dog still moves.$(br)  The edge which opens on the"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "depth has no terror; it is as if angels were waiting to uphold them, if it came about that they leaped from the height.$(br)  Their countenance is full of intelligence and expectant dream. They have a flower in one hand and in the other a costly wand, from which depends over their shoulder a wallet curiously embroidered.$(br)  They are the heir of the other world on their travels through this one - all amidst the morning glory, in the keen"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "air.$(br)  The sun, which shines behind them, knows whence they came, whither they are going, and how they will return by another path after many days.$(br)  They are the spirit in search of experience; and if the Major Arcana is to be read as a story, then The Fool is the protagonist.$(br)  Many symbols of the Mysteries are summarized in this card."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Wildness, taking risks. Some kind of leap of faith.$(br)  Resisting authority, following your own path.$(br2)$(l)Reversed$()$(br)  Hesitancy, caution.$(br)  Difficulty trusting your own instincts."
+    }
+
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "category":"about",
+  "read_by_default": true,
+  "sortnum": 1,
+  "name":"The Tarot as Art",
+  "icon":"tarot:flipped_card",
+
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(br)$(o)    The Tarot is symbolism;$(br)  it speaks no other language$(br)  and offers no other signs.$()$(br2)                 - A. E. Waite$(br2)  Imagine this. You suddenly find by chance a mysterious pack of 78 cards each with different intricate pictures, marked with numbers and names in strange patterns."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  You have no clue where it came from, or what it means. Maybe they are just pieces to some game? The cards carry strange images that evoke references, some of which seem vaguely familiar.$(br)  It seems to be, like a group of pictures, an elaborate colection of art.$(br)  As you notice patterns, you begin to see them as an image book of shuffled pages, with hidden stories behind them.$(br)  The characters in stories reflect things about ourselves."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "By reading a story, we can understand our own world though metaphor. This art can be a lens through which we perceive what lies beyond our common understanding.$(br)  Through art, intuition and imagination give form to the immaterial.$(br)  Art is the product of expression only possible through the use of symbols.$(br)  The subtle phenomenon between a symbol and one who experiences it, sometimes leads to interpretation."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Interpretation arises as a product of the objective experience in light of the subjective context in and around us. As such, a work of art can be a mediator between unconscious and conscious knowledge.$(br)  In light of this, the system of Tarot should stand or fall on its own as a work of art.$(br)  The cards are said to be a collaboration of visionaries, mystics, scholars, and artisans throughout the ages; a synthesis of philosophy"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "and mysticism shaped like a pack of playing cards.$(br)  If this is true, then the Tarot may be understood as living interactive poetry carrying timeless allegories to be played with in search of insight, knowledge, perspectives, or purpose; a work of art that stimulates us into meaningful understanding through experience.$(br)  The Tarot is divided into 22 cards called the Major Arcana, and 4 suits of 14 cards each, called the Minor Arcana"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "collectively. Each suit in turn has 10 numbered cards and 4 court cards. These numbers are the clue to its philosophy.$(br)  To view the Tarot as art is to extol Art in itself, but also shields us from the superstition and expectations for factual answers, curses, prophesies or supernatural power that have diminished the art of Tarot divination since its formulation.$(br)  The true magic of the Art of Tarot is the insight into our own intuitive imagination."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "category":"swords",
+  "read_by_default": true,
+  "sortnum": 103,
+  "name":"Queen of Swords",
+  "icon":"tarot:queen_of_swords",
+  "extra_recipe_mappings": [["tarot:queen_of_swords",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_swordqueen.png"],
+      "title": "⤝ Queen of Swords ⤝",
+      "border": false,
+      "text": "  Queen of the Thrones of Air$(br)       ∇ Water of $(m)∆$() Air"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A crowned woman sits on her stone throne. Her right hand holds a sword pointed to the sky, the left hand is extended, perhaps to reach for another.$(br)  Lost in thought, she appears perhaps gloomy and gentle, her weapon notwithstanding.$(br)  The slow moving clouds low on the horizon stand for the ever changing nature of new ideas and enterprises.$(br)  The sense of separation and awe surrounds this Queen, who appears dim yet powerful, at the center of the world."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Her distant mind reaches below the messy realities of nature to the pure dualities underlying existence.$(br2)$(l)Divinatory meanings$()$(br)  Absence, mourning, separation.$(br)  Can symbolize someone brilliant, but distant and unemotional.$(br)  In relation to a problem it calls for clear thinking and detachment."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Reversed$()$(br)  Bigotry, deceit, emotional turmoil.$(br)  Sometimes signifies someone manipulative or even cruel."
+    }
+  ]
+}

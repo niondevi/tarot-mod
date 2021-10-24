@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tarot:block/justice"
+    },
+    "facing=east": {
+      "model": "tarot:block/justice",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tarot:block/justice",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tarot:block/justice",
+      "y": 270
+    }
+  }
+}

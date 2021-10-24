@@ -1,0 +1,23 @@
+{
+  "category":"items",
+  "read_by_default": true,
+  "sortnum": 13,
+  "name":"Ender Tarot Card",
+  "icon":"tarot:ender_tarot_card",
+
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tarot:ender_tarot_card",
+      "link_recipe": true,
+      "title":"Ender Tarot Card",
+      "text": "$(o)   Gather pearls from above,$(br)   grind up dust from below$(br2)   Hold firmly in one hand$(br)   a single Eye of the End $(br2)    Combine now any card,$(br)     mind as it is spun$(br2)     A mystery before you,$(br)    now the All is in One!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tarot:ender_tarot_card_from_card",
+      "title":"Crafting",
+      "text": "  Combine an Eye of Ender with any Tarot card to transform it.$(br2)  When placed, an Ender Tarot Card will be face down, and it will mysteriously turn into a new random card everytime you flip it."
+    }
+  ]
+}

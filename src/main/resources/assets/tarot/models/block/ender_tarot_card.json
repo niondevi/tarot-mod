@@ -1,0 +1,9 @@
+{
+  "parent": "tarot:custom/tarotcard",
+  "textures": {
+    "all": "tarot:blocks/enderback",
+    "particle": "tarot:blocks/enderback",
+    "0": "tarot:blocks/enderback",
+    "1": "tarot:blocks/enderback"
+  }
+}

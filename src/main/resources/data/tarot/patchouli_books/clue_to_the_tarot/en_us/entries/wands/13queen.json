@@ -1,0 +1,30 @@
+{
+  "category":"wands",
+  "read_by_default": true,
+  "sortnum": 63,
+  "name":"Queen of Wands",
+  "icon":"tarot:queen_of_wands",
+  "extra_recipe_mappings": [["tarot:queen_of_wands",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_wandqueen.png"],
+      "title": "⎧ Queen of Wands ⎧",
+      "border": false,
+      "text": " Queen of the Thrones of Flame$(br)      ∇ Water of ∆ Fire"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The Queen of Wands sits upon a throne decorated with lions facing opposing directions, a symbol of fire and strength. She stares intently ahead as if in amazement at the world.$(br)  In her left hand and behind her are sunflowers, solar symbols of fertility and joy; her right hand holds a wand with small sprouts springing to life.$(br)  A black cat sits at her feet, signifying boldness, intuitive understanding, and luck;"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "qualities of being in touch with the unconscious mind.$(br)  She represents the development of awareness of our own role in the world.$(br)  We can describe her as the mystical contemplation of the Fire of life.$(br2)$(l)Divinatory meanings$()$(br)  Wonderment, joy, success.$(br)  May signify someone positive with a deep sense of the astonishment of life."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Reversed$()$(br)  Opposition, jealousy.$(br)  Can be someone jaded, negative, needing to be shaken up."
+    }
+  ]
+}

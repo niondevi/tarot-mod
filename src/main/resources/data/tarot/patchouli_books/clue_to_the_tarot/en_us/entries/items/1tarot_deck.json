@@ -1,0 +1,44 @@
+{
+  "category":"items",
+  "read_by_default": true,
+  "sortnum": 11,
+  "name":"Tarot Deck",
+  "icon":"tarot:tarot_deck",
+
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "tarot:tarot_deck",
+      "title":"The Tarot Deck",
+      "link_recipe": true,
+      "text": "  The $(l)Tarot Deck$() is an item that you can use to place and pick shuffled $(l:patchouli:items/2tarot_cards)Tarot Cards$().$(br)  It behaves like a normal tool, but it is a tool that deals only with the cards.$(br)  Full Tarot Decks are uncommonly sold by Wandering Traders from time to time.$(br) You can also craft your own Tarot Deck."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tarot:tarot_deck_recipe",
+      "title":"Crafting a Deck",
+      "text": "  If you manage to collect 8 of any Tarot cards from Witches (or from another Tarot Deck), you can get a brand new Deck by crafting them around any Enchanted Book."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tarot:regenerate_tarot_deck",
+      "title":"Repairing a Deck",
+      "text": "  If you have a Tarot Deck that is missing some cards, you can restore it back to a full deck by crafting it with paper surrounding the damaged deck.$(br)  This will fill the deck with all missing cards."
+    },
+    {
+      "type": "patchouli:text",
+      "title":"Using a Tarot Deck",
+      "text": " There are two ways you can pick random cards with a Tarot Deck:$(br) $(li) you can place cards in world by using $(k:use) against a block$()$(br) $(li)you can pick cards with your off-hand by using $(k:use), aimed at empty air$()$(br2)  Read the next pages for more details."
+    },
+    {
+      "type": "patchouli:text",
+      "title":"Placing Random Cards",
+      "text": "$(br)$(l)Place card from Deck:$()$(br) With $(l:patchouli:items/1tarot_deck)Tarot Deck$() in main hand$(br) use $(k:use) against$(br) any block$(br) (sneak for flipped card)$(br2)$(br2) $(br)$(l)Shuffle card back in deck:$()$(br) With $(l:patchouli:items/1tarot_deck)Tarot Deck$() in main hand$(br) break card with $(k:attack)"
+    },
+    {
+      "type": "patchouli:text",
+      "title":"Pick Card in Off-hand",
+      "text": "$(br)$(l)Pick card in off-hand:$()$(br) With $(l:patchouli:items/1tarot_deck)Tarot Deck$() in main hand$(br) and a clear off-hand$(br) use $(k:use) in the air$(br2)$(br2) $(br)$(l)Shuffle card from off-hand:$()$(br) With $(l:patchouli:items/1tarot_deck)Tarot Deck$() in main hand$(br) and a card in off-hand$(br) use $(k:use) in the air"
+    }
+  ]
+}

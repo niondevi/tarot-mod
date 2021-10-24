@@ -1,0 +1,26 @@
+{
+  "category":"wands",
+  "read_by_default": true,
+  "sortnum": 54,
+  "name":"Four of Wands",
+  "icon":"tarot:four_of_wands",
+  "extra_recipe_mappings": [["tarot:four_of_wands",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_wand4.png"],
+      "title": "⎧ Four of Wands ⎧",
+      "border": false,
+      "text": "    Spirit of Perfected Work$(br)      ♀ Venus in ♈ Aries"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  From the four great staves planted in the foreground there is a great garland suspended; in the distance an old manorial house.$(br)  Clusters of grapes hang by the garland; a traditional symbol of abundance as well as nature. They are suspended high by the structure of the Wands.$(br)  Numerologically, the number Four signifies structure. The tension between the symbolism of the number and the natural quality of the suit produces a"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "dynamic energy.$(br)  In contrast to the $(l:patchouli:wands/3)Three of Wands$() we see combined energy, different forces unified by the same purpose.$(br2)$(l)Divinatory meanings$()$(br)  Loosely structured situations. People working together for a unified purpose. Joy, openness, sharing.$(br2)$(l)Reversed$()$(br)  Structures falling apart, tension, people having trouble working together."
+    }
+  ]
+}

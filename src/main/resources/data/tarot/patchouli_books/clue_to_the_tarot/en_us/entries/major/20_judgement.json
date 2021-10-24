@@ -1,0 +1,30 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 40,
+  "name":"20 - Judgement",
+  "icon":"tarot:judgement",
+  "extra_recipe_mappings": [["tarot:judgement",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_20judgement.png"],
+      "title": "20 ▪ Judgement ▪ ש",
+      "border": false,
+      "text": "   Spirit of the Primal Fire"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A great angel is followed by clouds, as their trumpets blow before them.$(br)  The dead have resurrected and left their now empty tombs. They escaped as one in the wonder, adoration and ecstasy.$(br)  This is the card which registers the accomplishment of the great work of transformation in answer to the summons of the divine - which summons, is heard, and is answered from within.$(br)  Herein is the intimation of a significance which cannot well"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "be carried further in the present place.$(br)  What is that within us which does sound a trumpet and all that is lower in our nature rises in response - almost in a moment, almost in the twinkling of an eye?$(br)  Let the card continue to depict, for those who can see no further, the Last judgment and the resurrection in the natural body; but let those who have inward eyes look and discover therewith.$(br)  They will understand that it"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "has been called truly a card of eternal life, and for this, it may be compared with the card of $(l:patchouli:major/14temperance)Temperance$().$(br2)$(l)Divinatory meanings$()$(br)  A time of great and positive change, especially in the way we see ourselves.$(br)  A new beginning.$(br2)$(l)Reversed$()$(br)  Realizing the knowledge that something has changed."
+    }
+  ]
+}

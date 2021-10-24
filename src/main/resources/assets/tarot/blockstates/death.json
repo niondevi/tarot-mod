@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tarot:block/death"
+    },
+    "facing=east": {
+      "model": "tarot:block/death",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tarot:block/death",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tarot:block/death",
+      "y": 270
+    }
+  }
+}

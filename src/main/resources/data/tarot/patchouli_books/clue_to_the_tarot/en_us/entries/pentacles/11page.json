@@ -1,0 +1,30 @@
+{
+  "category":"pentacles",
+  "read_by_default": true,
+  "sortnum": 121,
+  "name":"Page of Pentacles",
+  "icon":"tarot:page_of_pentacles",
+  "extra_recipe_mappings": [["tarot:page_of_pentacles",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_penpage.png"],
+      "title": "⍟ Page of Pentacles ⍟",
+      "border": false,
+      "text": "  Rose of the Palace of Earth$(br)      $(m)∇$() Earth of $(m)∇$() Earth"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A youthful figure, has a pentacle hovering lightly over their raised hand. They examine it intently, as if to analyze it deeply and understand its nature.$(br)  Moving slowly, they seem insensible of that which is about them in the grassy field.$(br)  Not very far, a small patch of trees and a newly ploughed field, indicates abundance and fresh opportunities.$(br)  This card represents the power to displace our own physicality into things outside"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "of ourselves, especially work and anything that fascinates or distracts us from our surroundings.$(br)  They are the virgin Earth ready to be molded and transformed by wherever life leads. $(br2)$(l)Divinatory meanings$()$(br)  Involvement with nature, fascination with the world.$(br)  Can mean a changing of a line of work or a need to reflect on application.$(br)  Possibly a student, or the"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "idea of studying new things.$(br2)$(l)Reversed$()$(br)  Prodigality, dissipation, liberality.$(br)  Can signify someone whimsical, easily distracted."
+    }
+  ]
+}

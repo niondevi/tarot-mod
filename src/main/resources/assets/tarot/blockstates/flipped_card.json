@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tarot:block/flipped_card"
+    },
+    "facing=east": {
+      "model": "tarot:block/flipped_card",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tarot:block/flipped_card",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tarot:block/flipped_card",
+      "y": 270
+    }
+  }
+}

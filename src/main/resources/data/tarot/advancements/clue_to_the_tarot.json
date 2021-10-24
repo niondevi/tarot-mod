@@ -1,0 +1,40 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "tarot:flipped_card"
+    },
+    "title": {
+      "translate": "advancements.clue_to_the_tarot.title"
+    },
+    "description": {
+      "translate": "advancements.clue_to_the_tarot.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "clue_to_the_tarot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "tarot:tarot_deck",
+            "count": {
+              "min": 1,
+              "max": 999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "loot": [
+      "tarot:entities/clue_to_the_tarot_reward"
+    ]
+  }
+}

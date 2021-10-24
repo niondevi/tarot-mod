@@ -1,0 +1,34 @@
+{
+  "category":"cups",
+  "read_by_default": true,
+  "sortnum": 71,
+  "name":"Ace of Cups",
+  "icon":"tarot:ace_of_cups",
+  "extra_recipe_mappings": [["tarot:ace_of_cups",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_cupace.png"],
+      "title": "℧ Ace of Cups ℧",
+      "border": false,
+      "text": "  Root of the Powers of Water$(br)    Natural Receptive Vigor"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The waters are beneath, and thereon are water-lilies; the hand issues from the cloud, holding in its palm the cup, from which streams are pouring; the dew of water is falling on all sides.$(br)  Cups represent love, imagination, intuition, fantasies, the unconscious - all things associated with Water. These associations do not come just from arbitrary choice.$(br)  The pouring streams suggest overflowing abundance and"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "remind us of the legends of the Holy Grail and of the Goddess's Cauldron of Plenty; symbols of divine, unconditional love and limitless gifts.$(br)  Water is deep and dark, like the unconscious. It flows, and it is formless, taking on the shape of whatever is holding it.$(br)  The imagination too is a shape changer, inspired by the world of the senses.$(br)  Like love, Water is shimmering and beautiful, but"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "dangerous.$(br)  The element of Water does not make strict separations.$(br)  Feelings flow from one state to another; we sense our connections with the world around us and with other people.$(br)  We learn to merge with others, in acceptance, in sharing, in passion, and in love.$(br2)$(l)Divinatory meanings$()$(br)  Love, great happiness, powerful emotions, a time of"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "life being very good to us.$(br)  Abundance and fertility.$(br2)$(l)Reversed$()$(br)  The emotions remain strong, but troubled.$(br)  Sadness. The need to work at a relationship.$(br)  Instability, revolution."
+    }
+  ]
+}

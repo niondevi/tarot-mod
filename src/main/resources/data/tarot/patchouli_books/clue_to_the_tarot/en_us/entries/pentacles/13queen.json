@@ -1,0 +1,30 @@
+{
+  "category":"pentacles",
+  "read_by_default": true,
+  "sortnum": 123,
+  "name":"Queen of Pentacles",
+  "icon":"tarot:queen_of_pentacles",
+  "extra_recipe_mappings": [["tarot:queen_of_pentacles",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_penqueen.png"],
+      "title": "⍟ Queen of Pentacles ⍟",
+      "border": false,
+      "text": " Queen of the Thrones of Earth$(br)      ∇ Water of $(m)∇$() Earth"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A crowned woman sits upon a throne in a lush garden, surrounded by a verdant scenery.$(br)  She cradles a pentacle with both hands and looks down on it with loving care, contemplating worlds therein.$(br)  Luscious plants and flowers surround her, representing her connection to elemental Earth, nature, and abundance.$(br)  She is wise. Material success and sensual pleasure come naturally to her; and like Mother Nature, she remains"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "quiet and content about her accomplishments.$(br)  She is involved, in an abstract way, with the real world in all its complexity and belongs to life at its deepest level.$(br2)$(l)Divinatory meanings$()$(br)  Opulence, generosity, security, liberty.$(br)  May signify someone deeply connected to nature; or someone intense and silent, involved with their own concerns."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Reversed$()$(br)  Suspense, fear, mistrust.$(br)  A need for sociability, expression, activities involving others."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "category":"wands",
+  "read_by_default": true,
+  "sortnum": 62,
+  "name":"Knight of Wands",
+  "icon":"tarot:knight_of_wands",
+  "extra_recipe_mappings": [["tarot:knight_of_wands",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_wandknight.png"],
+      "title": "⎧ Knight of Wands ⎧",
+      "border": false,
+      "text": "  Heir of Flame and Lightning$(br)       ∆ Fire of ∆ Fire"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The Knight of Wands sits on their horse in full armor, wearing a yellow robe, and a helmet with fiery red plumes flowing behind them.$(br)  Passing mounds or pyramids in the desert, they are shown as if upon a journey; armed only with a short wand, though armored, they are not prepared for war.$(br)  Their horse rises up on its hind legs, poised and leaping to action.$(br)  The motion of the horse is a key to the character of its"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "rider, and suggests the precipitate mood, or things connected therewith.$(br)  Knights, as figures of action, instinct, and even violence, have only the code of chivalry to anchor them in civilization.$(br)  A knight is defined by what they do in the world, not by who they are.$(br)  The knight's heroism, their courage, and virtue keep the flame alive, if faintly, in the hard world of real life.$(br)  The card has a certain"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "purity and idealism therein. $(br2)$(l)Divinatory meanings$()$(br)  Departure, emigration.$(br)  May symbolize someone courageous, idealistic, virtuous; maybe headstrong, refusing to compromise what they believe is right.$(br2)$(l)Reversed$()$(br)  Rupture, interruption, loss of idealism.$(br)  May symbolize someone who has taken a lot of risks and is possibly in some danger."
+    }
+  ]
+}

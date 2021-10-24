@@ -1,0 +1,34 @@
+{
+  "category":"about",
+  "read_by_default": true,
+  "sortnum": 2,
+  "name":"Divination & the Tarot",
+  "icon":"tarot:flipped_card",
+
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "  Divination is the name for the process of attempting to gain insight into a question or situation via the interpretation of signs. It can be understood as a way to organize what appears disordered through intuition to aid in understanding obscure matters, such as random facets of life or phylosophical ideas.$(br)  Divination, as proposed, is distinct from fortune-telling;"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "it does not claim to foresee future outcomes nor to provide supernatural advantage.$(br)  For those that look to divination in search of superstitious fortune-telling, we remind that any unreasonable expectations around these matters are easily falsified with simple scientific experimentation and reasoning.$(br)  The practice of divination is a complex phenomena that is more akin to a type of symbolic circumscription"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "of unconcious information through inductive introspection and interpretation.$(br)  The method of divination with the Tarot is summarized thus:$(br)'read the cards'.$(br)  Tarot readers aim to respond to a question made by a querent, a seeker of insight.$(br)  The cards are cast in spreads and are read by their individual and grouped meanings, interpreting them in regard to what was asked in the reading.$(br)  Readers usually get intuitive"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "flashes from looking at the images of the cards, sometimes these include a strong sense of clarity, sometimes they do not.$(br)  One should not question how accurate a reading may be, for accuracy is not the point of divination. Instead it would be more sensible to ask how may it be meaningful, how can it help in our understanding.$(br)  When we interpret the cards, at first we might look up their meanings in a book such as this one. Over time we create"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "such a relationship to the meaning of each card so that we no longer need to consult the text, and will in fact develop and discover their meanings on our own.$(br)  A well-informed personal interpretation is a lot more valuable than the ones given in any one book.$(br)  Like learning a new language, as we dedicate ourselves to memorization of symbols and vocabulary, the more its meanings becomes a part of us."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  At the end, it is hardly possible to define the method and meaning of the cards in such a way as to make them clear in absolute terms.$(br)  Each individual must discover what they mean for themselves by constant practice and contemplation, as each have different intuitions, emotions, ideas, impressions, and ways around things; each individual has their own point of view of the universe all to themselves, distinct from all others."
+    }
+  ]
+}

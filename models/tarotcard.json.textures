@@ -1,0 +1,564 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "back6",
+        "1": "back6"
+      },
+      "name": "default"
+    },
+    "m0": {
+      "map": {
+        "0": "0fool",
+        "1": "back6"
+      },
+      "name": "m0"
+    },
+    "m1": {
+      "map": {
+        "0": "1magician",
+        "1": "back6"
+      },
+      "name": "m1"
+    },
+    "m2": {
+      "map": {
+        "0": "2priestess",
+        "1": "back6"
+      },
+      "name": "m2"
+    },
+    "m3": {
+      "map": {
+        "0": "3empress",
+        "1": "back6"
+      },
+      "name": "m3"
+    },
+    "m4": {
+      "map": {
+        "0": "4emperor",
+        "1": "back6"
+      },
+      "name": "m4"
+    },
+    "m5": {
+      "map": {
+        "0": "5herophant",
+        "1": "back6"
+      },
+      "name": "m5"
+    },
+    "ender": {
+      "map": {
+        "0": "enderback",
+        "1": "enderback"
+      },
+      "name": "ender"
+    },
+    "m6": {
+      "map": {
+        "0": "6lovers",
+        "1": "back6"
+      },
+      "name": "m6"
+    },
+    "m7": {
+      "map": {
+        "0": "7chariot",
+        "1": "back6"
+      },
+      "name": "m7"
+    },
+    "m8": {
+      "map": {
+        "0": "8strength",
+        "1": "back6"
+      },
+      "name": "m8"
+    },
+    "m9": {
+      "map": {
+        "0": "9hermit",
+        "1": "back6"
+      },
+      "name": "m9"
+    },
+    "m10": {
+      "map": {
+        "0": "10wheel",
+        "1": "back6"
+      },
+      "name": "m10"
+    },
+    "m11": {
+      "map": {
+        "0": "11justice",
+        "1": "back6"
+      },
+      "name": "m11"
+    },
+    "m12": {
+      "map": {
+        "0": "12hangedman",
+        "1": "back6"
+      },
+      "name": "m12"
+    },
+    "m13": {
+      "map": {
+        "0": "13death",
+        "1": "back6"
+      },
+      "name": "m13"
+    },
+    "m14": {
+      "map": {
+        "0": "14tempance",
+        "1": "back6"
+      },
+      "name": "m14"
+    },
+    "m15": {
+      "map": {
+        "0": "15devil",
+        "1": "back6"
+      },
+      "name": "m15"
+    },
+    "m16": {
+      "map": {
+        "0": "16tower",
+        "1": "back6"
+      },
+      "name": "m16"
+    },
+    "m17": {
+      "map": {
+        "0": "17star",
+        "1": "back6"
+      },
+      "name": "m17"
+    },
+    "m18": {
+      "map": {
+        "0": "18moon",
+        "1": "back6"
+      },
+      "name": "m18"
+    },
+    "m19": {
+      "map": {
+        "0": "19sun",
+        "1": "back6"
+      },
+      "name": "m19"
+    },
+    "m20": {
+      "map": {
+        "0": "20judgement",
+        "1": "back6"
+      },
+      "name": "m20"
+    },
+    "m21": {
+      "map": {
+        "0": "21world",
+        "1": "back6"
+      },
+      "name": "m21"
+    },
+    "c1": {
+      "map": {
+        "0": "cupace",
+        "1": "back6"
+      },
+      "name": "c1"
+    },
+    "c2": {
+      "map": {
+        "0": "cup2",
+        "1": "back6"
+      },
+      "name": "c2"
+    },
+    "c3": {
+      "map": {
+        "0": "cup3",
+        "1": "back6"
+      },
+      "name": "c3"
+    },
+    "c4": {
+      "map": {
+        "0": "cup4",
+        "1": "back6"
+      },
+      "name": "c4"
+    },
+    "c5": {
+      "map": {
+        "0": "cup5",
+        "1": "back6"
+      },
+      "name": "c5"
+    },
+    "c6": {
+      "map": {
+        "0": "cup6",
+        "1": "back6"
+      },
+      "name": "c6"
+    },
+    "c7": {
+      "map": {
+        "0": "cup7",
+        "1": "back6"
+      },
+      "name": "c7"
+    },
+    "c8": {
+      "map": {
+        "0": "cup8",
+        "1": "back6"
+      },
+      "name": "c8"
+    },
+    "c9": {
+      "map": {
+        "0": "cup9",
+        "1": "back6"
+      },
+      "name": "c9"
+    },
+    "c10": {
+      "map": {
+        "0": "cup10",
+        "1": "back6"
+      },
+      "name": "c10"
+    },
+    "cp": {
+      "map": {
+        "0": "cuppage",
+        "1": "back6"
+      },
+      "name": "cp"
+    },
+    "ck": {
+      "map": {
+        "0": "cupknight",
+        "1": "back6"
+      },
+      "name": "ck"
+    },
+    "cq": {
+      "map": {
+        "0": "cupqueen",
+        "1": "back6"
+      },
+      "name": "cq"
+    },
+    "cg": {
+      "map": {
+        "0": "cupking",
+        "1": "back6"
+      },
+      "name": "cg"
+    },
+    "p1": {
+      "map": {
+        "0": "penace",
+        "1": "back6"
+      },
+      "name": "p1"
+    },
+    "p2": {
+      "map": {
+        "0": "pen2",
+        "1": "back6"
+      },
+      "name": "p2"
+    },
+    "p3": {
+      "map": {
+        "0": "pen3",
+        "1": "back6"
+      },
+      "name": "p3"
+    },
+    "p4": {
+      "map": {
+        "0": "pen4",
+        "1": "back6"
+      },
+      "name": "p4"
+    },
+    "p5": {
+      "map": {
+        "0": "pen5",
+        "1": "back6"
+      },
+      "name": "p5"
+    },
+    "p6": {
+      "map": {
+        "0": "pen6",
+        "1": "back6"
+      },
+      "name": "p6"
+    },
+    "p7": {
+      "map": {
+        "0": "pen7",
+        "1": "back6"
+      },
+      "name": "p7"
+    },
+    "p8": {
+      "map": {
+        "0": "pen8",
+        "1": "back6"
+      },
+      "name": "p8"
+    },
+    "p9": {
+      "map": {
+        "0": "pen9",
+        "1": "back6"
+      },
+      "name": "p9"
+    },
+    "p10": {
+      "map": {
+        "0": "pen10",
+        "1": "back6"
+      },
+      "name": "p10"
+    },
+    "pp": {
+      "map": {
+        "0": "penpage",
+        "1": "back6"
+      },
+      "name": "pp"
+    },
+    "pk": {
+      "map": {
+        "0": "penknight",
+        "1": "back6"
+      },
+      "name": "pk"
+    },
+    "pq": {
+      "map": {
+        "0": "penqueen",
+        "1": "back6"
+      },
+      "name": "pq"
+    },
+    "pg": {
+      "map": {
+        "0": "penking",
+        "1": "back6"
+      },
+      "name": "pg"
+    },
+    "s1": {
+      "map": {
+        "0": "swordace",
+        "1": "back6"
+      },
+      "name": "s1"
+    },
+    "s2": {
+      "map": {
+        "0": "sword2",
+        "1": "back6"
+      },
+      "name": "s2"
+    },
+    "s3": {
+      "map": {
+        "0": "sword3",
+        "1": "back6"
+      },
+      "name": "s3"
+    },
+    "s4": {
+      "map": {
+        "0": "sword4",
+        "1": "back6"
+      },
+      "name": "s4"
+    },
+    "s5": {
+      "map": {
+        "0": "sword5",
+        "1": "back6"
+      },
+      "name": "s5"
+    },
+    "s6": {
+      "map": {
+        "0": "sword6",
+        "1": "back6"
+      },
+      "name": "s6"
+    },
+    "s7": {
+      "map": {
+        "0": "sword7",
+        "1": "back6"
+      },
+      "name": "s7"
+    },
+    "s8": {
+      "map": {
+        "0": "sword8",
+        "1": "back6"
+      },
+      "name": "s8"
+    },
+    "s9": {
+      "map": {
+        "0": "sword9",
+        "1": "back6"
+      },
+      "name": "s9"
+    },
+    "s10": {
+      "map": {
+        "0": "sword10",
+        "1": "back6"
+      },
+      "name": "s10"
+    },
+    "sp": {
+      "map": {
+        "0": "swordpage",
+        "1": "back6"
+      },
+      "name": "sp"
+    },
+    "sk": {
+      "map": {
+        "0": "swordknight",
+        "1": "back6"
+      },
+      "name": "sk"
+    },
+    "sq": {
+      "map": {
+        "0": "swordqueen",
+        "1": "back6"
+      },
+      "name": "sq"
+    },
+    "sg": {
+      "map": {
+        "0": "swordking",
+        "1": "back6"
+      },
+      "name": "sg"
+    },
+    "w1": {
+      "map": {
+        "0": "wandace",
+        "1": "back6"
+      },
+      "name": "w1"
+    },
+    "w2": {
+      "map": {
+        "0": "wand2",
+        "1": "back6"
+      },
+      "name": "w2"
+    },
+    "w3": {
+      "map": {
+        "0": "wand3",
+        "1": "back6"
+      },
+      "name": "w3"
+    },
+    "w4": {
+      "map": {
+        "0": "wand4",
+        "1": "back6"
+      },
+      "name": "w4"
+    },
+    "w5": {
+      "map": {
+        "0": "wand5",
+        "1": "back6"
+      },
+      "name": "w5"
+    },
+    "w6": {
+      "map": {
+        "0": "wand6",
+        "1": "back6"
+      },
+      "name": "w6"
+    },
+    "w7": {
+      "map": {
+        "0": "wand7",
+        "1": "back6"
+      },
+      "name": "w7"
+    },
+    "w8": {
+      "map": {
+        "0": "wand8",
+        "1": "back6"
+      },
+      "name": "w8"
+    },
+    "w9": {
+      "map": {
+        "0": "wand9",
+        "1": "back6"
+      },
+      "name": "w9"
+    },
+    "w10": {
+      "map": {
+        "0": "wand10",
+        "1": "back6"
+      },
+      "name": "w10"
+    },
+    "wp": {
+      "map": {
+        "0": "wandpage",
+        "1": "back6"
+      },
+      "name": "wp"
+    },
+    "wk": {
+      "map": {
+        "0": "wandknight",
+        "1": "back6"
+      },
+      "name": "wk"
+    },
+    "wq": {
+      "map": {
+        "0": "wandqueen",
+        "1": "back6"
+      },
+      "name": "wq"
+    },
+    "wg": {
+      "map": {
+        "0": "wandking",
+        "1": "back6"
+      },
+      "name": "wg"
+    }
+  }
+}

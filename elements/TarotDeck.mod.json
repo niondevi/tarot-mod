@@ -1,0 +1,36 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "tarot_deck_new1",
+    "customModelName": "Normal",
+    "name": "Tarot Deck",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Tarot"
+    },
+    "toolType": "Special",
+    "harvestLevel": 0,
+    "efficiency": 1.0,
+    "attackSpeed": 1.0,
+    "enchantability": 0,
+    "damageVsEntity": 0.0,
+    "usageCount": 80,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "TarotDeckRightClickedInAir"
+    },
+    "onRightClickedOnBlock": {
+      "name": "PlaceCardFromDeck"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "TarotDeckBlockDestroyedWithTool"
+    }
+  }
+}

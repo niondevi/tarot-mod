@@ -1,0 +1,9 @@
+{
+  "parent": "tarot:custom/tarotcard",
+  "textures": {
+    "all": "tarot:blocks/12hangedman",
+    "particle": "tarot:blocks/12hangedman",
+    "0": "tarot:blocks/12hangedman",
+    "1": "tarot:blocks/back6"
+  }
+}

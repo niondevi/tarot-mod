@@ -1,0 +1,30 @@
+{
+  "category":"pentacles",
+  "read_by_default": true,
+  "sortnum": 120,
+  "name":"Ten of Pentacles",
+  "icon":"tarot:ten_of_pentacles",
+  "extra_recipe_mappings": [["tarot:ten_of_pentacles",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_pen10.png"],
+      "title": "⍟ Ten of Pentacles ⍟",
+      "border": false,
+      "text": "       Spirit of Wealth$(br)     ☿ Mercury in ♍ Virgo"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Now we see a diagram of the universe, a symbol of the whole of manifestation.$(br)  Ten pentacles are arranged on an ancient diagram called the Tree of Life. This figure is the secret basis of the whole system on which the Tarot is based.$(br)  Every pentacle symbolizes an emanation through which infinite spirit reveals itself, creating the metaphysical realms and ultimately physical reality: nature, the body, the need for work."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Spirit is transmuted through the realms and descends into matter, reaching at last complete stagnation.$(br)  Acquired wealth, being inert, will be dissipated or lost unless put to further use instead of mere accumulation.$(br)  Here is a great and final solidification, the accumulated work of the previous cards.$(br)  This card is in fact a hieroglyph of the cycle of creation and regeneration."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Wealth, inheritance, security, sometimes family matters.$(br)  Reaching the highest point, retirement.$(br2)$(l)Reversed$()$(br)  Chance, uncertainty, loss.$(br)  Going beyond what you have, looking for new beginnings, or new adventures in life."
+    }
+  ]
+}

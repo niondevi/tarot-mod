@@ -1,0 +1,30 @@
+{
+  "category":"cups",
+  "read_by_default": true,
+  "sortnum": 81,
+  "name":"Page of Cups",
+  "icon":"tarot:page_of_cups",
+  "extra_recipe_mappings": [["tarot:page_of_cups",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_cuppage.png"],
+      "title": "℧ Page of Cups ℧",
+      "border": false,
+      "text": "  Lotus of the Palace of Water$(br)      $(m)∇$() Earth of ∇ Water"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A fair page of studious and intent aspect, contemplates their catch in a cup at the shore. They wear a beret on their head with a long flowing scarf.$(br)  Behind them the sea rolls shimmering with beauty, representing intuition, creativity and emotions.$(br)  A fish rises from the cup to look at them, signifying inspiration captured 'out of the blue'.$(br)  The concentration of Water does not judge, analyze, or put"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "things in categories; it simply experiences and apprehends.$(br)  This card signifies optimism and opportunity as the pictures of the mind take form.$(br2)$(l)Divinatory meanings$()$(br)  Spending time allowing feelings or fantasies to flow into awareness, without judgment. Meditation.$(br)  It can represent someone imaginative, considerate, reflective."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Reversed$()$(br)  Attachment, disappointment, indulging in obsession.$(br)  The need to think more clearly, make decisions or speak to others."
+    }
+  ]
+}

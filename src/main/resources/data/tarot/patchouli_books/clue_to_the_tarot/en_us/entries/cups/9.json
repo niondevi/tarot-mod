@@ -1,0 +1,26 @@
+{
+  "category":"cups",
+  "read_by_default": true,
+  "sortnum": 79,
+  "name":"Nine of Cups",
+  "icon":"tarot:nine_of_cups",
+  "extra_recipe_mappings": [["tarot:nine_of_cups",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_cup9.png"],
+      "title": "℧ Nine of Cups ℧",
+      "border": false,
+      "text": "  Spirit of Material Happiness$(br)     ♃ Jupiter in ♓ Pisces"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A content fellow has feasted to their heart's content, and abundant refreshment of wine is on the arched counter behind them, seeming to indicate that the future is also assured.$(br)  The table cloth is the deep blue of mystery and the unconscious.$(br)  Water is the element of fantasy and emotion. We nourish our bodies daily, yet we also spend a great deal of our time and energy on satiating our desires."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Desire, beauty, sensual pleasure - or possibly, the perfection of art.$(br2)$(l)Reversed$()$(br)  Frustration, mistakes, regrets.$(br)  Over-indulgence on personal desires and fantasies."
+    }
+  ]
+}

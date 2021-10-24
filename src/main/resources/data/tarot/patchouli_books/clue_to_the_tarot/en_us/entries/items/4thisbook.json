@@ -1,0 +1,52 @@
+{
+  "category":"items",
+  "read_by_default": true,
+  "sortnum": 14,
+  "name":"About this Book & Mod",
+  "icon":"patchouli:guide_book{\"patchouli:book\":\"tarot:clue_to_the_tarot\"}",
+
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(br2) $(br2) $(br)   $(o)Dedicated to F, B, and G."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  On a day like any other, I had the first idea to bring the Tarot cards to our blocky multiverse.$(br)  I looked briefly into it and was surprised at the lack of options, after all, there are mods and packs for almost everything under the sun.$(br)  Searching deeper, I found $(o)The Arcade Arcanum$() by Rose, a beautifully pixelated rendition of the Waite-Smith deck, and started envisioning what could be done.$(br)  I worked to adapt the $(o)Arcade"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(o)Arcanum$() deck as a special texture pack for Minecraft and after just a few days I had finished it! But to my dismay,$(br)I was struck with the sheer inconvenience of having to deal with 78 different items that wouldn't fit even in a double chest...$(br)  That is when inspiration for a Tarot mod for Minecraft first struck. I installed MCreator, a Minecraft Mod developing interface, and got to work.$(br)  This book started as simple documentation for the Tarot"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "mod but soon it bloomed.$(br)  At first my plan was to include a copy of $(o)'The Pictorial Key to the Tarot'$() by A.E. Waite, as I thought It would be an optimal source due to the $(o)Arcade Arcanum$() being heavily inspired by the Waite-Smith deck.$(br)  As I revised the $(o)Pictorial Key$() I found the necessity to adapt much of its outdated language and to 'localize' it to a more Minecraftian context.$(br)  This book may have started like this, but I have since"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "understood that such a simple adaptation would be a disservice to the tradition of the Tarot, to the study of the Mysteries and to the brilliant Minecraft community.$(br)  So I took it upon myself the task to expand upon Waite's initial work by incorporating information from different authors as well as personal observations.$(br)  $(o)'A Clue to the Tarot'$() morphed into a small chimerical collaboration of works from Éliphas Lévi, Arthur Waite,"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Aleister Crowley, Israel Regardie and Rachel Polack, remixed with my own meditative consideration.$(br)  As it stands it serves as a humble introduction to the subject and will also help as a reference in Tarot readings.$(br)  I hope it will also serve as an invitation into further study of the Tarot, Qabalah and other Mystery Traditions for those that can make good use of this knowledge.$(br)  For as much as has been written about the Tarot, much"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "more will still be written. But aside from words, the Tarot would never be what it is without the talented and inspired work from artists.$(br)  I would like to honor Pamela Colman Smith, Rose and the many other unnamed artists that help keep this tradition alive through their passionate vision and arduous work.$(br)  Just as the Tarot and its emcopassing philosophy have evolved through time, cultures and places with the help of adventurers and visionaires,"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "may it grow far and wide, into and out the wonderful worlds of Minecraft.$(br2)                      - Nion"
+    },
+    {
+      "title": "Acknowledgments",
+      "type": "patchouli:text",
+      "text": "  My sincerest gratitude to:$(br2) $(l)Rose$(): for making the lovely$(br)$(o)Arcade Arcanum Tarot Deck$()!$(br) $(l)Violet Moon$(): for Patchouli and many other neat mods.$(br) $(l)MCreator Team$(): for making Minecraft modding accessible.$(br) $(l)Mojang Team$(): for their diligence and enthusiasm.$(br) $(l)Minecraft Community$(): for the packs, the mods, the worlds, and the memories.$(br) $(l)You$(): for trying this mod!"
+    },
+    {
+      "title": "Links",
+      "type": "patchouli:text",
+      "text": "  If you like this mod and book, check out $(l:https://www.patreon.com/niondevi)my Patreon$() if you would like to support future updates & more mysterious projects!$(br2)   This book and mod were$(br)  created by $(l:https://twitter.com/niondevi)Nion$() and both$(br)    are licensed under a$(br)    $(l:https://creativecommons.org/licenses/by-nc/4.0/)CC BY-NC 4.0 License$()$(br2) $(br)  $(o)The Arcade Arcanum Tarot$()$(br)    by Rose - $(l:https://mozz.itch.io/)mozz.itch.io$()"
+    }
+  ]
+}

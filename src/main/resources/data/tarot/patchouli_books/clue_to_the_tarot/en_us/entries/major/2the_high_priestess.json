@@ -1,0 +1,34 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 22,
+  "name":"2 - The High Priestess",
+  "icon":"tarot:the_high_priestess",
+  "extra_recipe_mappings": [["tarot:the_high_priestess",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_2priestess_1.png"],
+      "title": "2 ▪The High Priestess▪ ג",
+      "border": false,
+      "text": "  Priestess of the Silver Star"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  She has the lunar crescent at her feet, a horned diadem on her head, with a globe in the middle place, and a large solar cross on her breast.$(br)  The concealed scroll in her hands describes the Greater Law, the Secret Law. It is partly covered by her mantle, to show that some things are implied and some spoken.$(br)  She is seated between the white and black pillars - marked J and B - of the Mystic Temple Garden, and the veil of the Temple is behind her: it is"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "the color of mystery.$(br)  Her vestments are flowing and gauzy, and the mantle suggests light - a shimmering radiance.$(br)  She has been called Occult Science on the threshold of the Sanctuary of Nature, but she is really the Secret Church, the House which is of Divinity and Humanity. $(br)  She is the spiritual Bride and Mother, the daughter of the stars and the Higher Garden of Creation.$(br)  She is, in fine, the Queen of"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "the borrowed light, but this is the light of all.$(br) She is the moon nourished by the milk of the Great Mother. In a manner, she is also the Great Mother herself - she is the bright reflection.$(br)  Mystically speaking, she is the Spiritual Bride of the just human, and when they read the Law she gives the Divine meaning.$(br)  In some ways this card is the highest and holiest of the Major Arcana."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Stillness. Wisdom, intuition.$(br)  A sense of knowing things which cannot be explained in normal terms.$(br2)$(l)Reversed$()$(br)  A change from stillness to action.$(br)  Defending, or seeking out, what is rightfully yours."
+    }
+  ]
+}

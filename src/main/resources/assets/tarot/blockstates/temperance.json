@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tarot:block/temperance"
+    },
+    "facing=east": {
+      "model": "tarot:block/temperance",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tarot:block/temperance",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tarot:block/temperance",
+      "y": 270
+    }
+  }
+}

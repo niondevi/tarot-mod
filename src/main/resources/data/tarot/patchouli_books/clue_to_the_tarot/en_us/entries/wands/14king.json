@@ -1,0 +1,30 @@
+{
+  "category":"wands",
+  "read_by_default": true,
+  "sortnum": 64,
+  "name":"King of Wands",
+  "icon":"tarot:king_of_wands",
+  "extra_recipe_mappings": [["tarot:king_of_wands",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_wandking.png"],
+      "title": "⎧ King of Wands ⎧",
+      "border": false,
+      "text": "  King of the Chariot of Fire$(br)       $(m)∆$() Air of ∆ Fire"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The King of Wands uplifts a blossoming wand a symbol of new life and energy.$(br)  Emblazoned on the back of his throne is a salamander, a creature thought to walk though fire.$(br)  Like elemental Fire that gives life to all, his character is an example of intense generousness.$(br)  He sits at the edge of his royal seat, almost as if ready to stand up to articulate himself better.$(br)  He does not necessarily hold"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "the opinion about which he is so emphatic, always seeing both sides of every question.$(br)  He may be an extravagant jester, but he laughs at both himself and the subject of his jokes.$(br)  Like Fire can be explosive, he is swift and strong, and sometimes inclined to act on impulse; sometimes easily led by external influences, especially in trifles where they are easy prey to indecision."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Honesty, conscience.$(br)  May mean someone of great confidence, satisfied with their life; a natural leader.$(br)  Sometimes someone with a strong sense of art and beauty.$(br2)$(l)Reversed$()$(br)  Impatience, brashness.$(br)  Sometimes a person who is charming, but maybe arrogant as well; they can be domineering."
+    }
+  ]
+}

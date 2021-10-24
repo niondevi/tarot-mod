@@ -1,0 +1,30 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 28,
+  "name":"8 - Strength",
+  "icon":"tarot:strength",
+  "extra_recipe_mappings": [["tarot:strength",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_8strength.png"],
+      "title": "8 ▪ Strength ▪ ט",
+      "border": false,
+      "text": " Daughter of the Flaming Sword"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A woman is seen closing the jaws of a lion.$(br)  Over her head broods the same symbol of infinite life which we have seen in the card of $(l:patchouli:major/1the_magician)The Magician$().$(br)  Her kind fortitude has already subdued the lion, which looks at her meekly.$(br)  Strength, in one of its most exalted aspects, is connected with the divine mystery of Union; the virtue, of course, operates in all planes, and hence draws on all in its symbolism."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  It connects also with pure innocence, and with the strength which resides in contemplation.$(br)  These higher meanings are not so transparent on the surface, they are intimated in a concealed manner by the link between the figures, which signifies, among many other things, the sweet yoke and the light burden of Divine Law, when it has been taken into the heart of hearts.$(br)  The card concerns the confidence of those whose"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "strength is Unity and have found their refuge in it.$(br)  There is one aspect in which the lion signifies the passions, and she who is called Strength is the higher nature in its liberation.$(br2)$(l)Divinatory meanings$()$(br)  Strength of character and feeling. Gentle persuasion.$(br2)$(l)Reversed$()$(br)  Feelings of weakness.$(br)  A need to act or speak more directly."
+    }
+  ]
+}

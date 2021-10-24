@@ -1,0 +1,30 @@
+{
+  "category":"swords",
+  "read_by_default": true,
+  "sortnum": 96,
+  "name":"Six of Swords",
+  "icon":"tarot:six_of_swords",
+  "extra_recipe_mappings": [["tarot:six_of_swords",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_sword6.png"],
+      "title": "⤝ Six of Swords ⤝",
+      "border": false,
+      "text": "   Spirit of Earned Success$(br)   ☿ Mercury in ♒ Aquarius"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A small boat carries a child bundled in a robe to the further shore.$(br)  The course is smooth, and seeing that the freight is light, it can be said the journey will require but light work.$(br)  A vision of six swords, poised in the air like a fence, escorts the small passenger along.$(br)  The swords here may represent memories, relationships, habits, behaviours, thought patterns"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "and beliefs that are no longer serving us.$(br)  We need to gaze through them, ahead to our future, and decide what we need to take with us and what we can leave behind.$(br)  This card represents a state of transition, leaving behind what was familiar and moving towards the unknown.$(br)  With mental clarity and a renewed acceptance of change, new discoveries are in set course."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Intellect, great ideas, seeing how everything fits together. Progress, new perspectives.$(br)  May mean separating your ideas from your emotions.$(br2)$(l)Reversed$()$(br)  Confession, declaration. Becoming emotional.$(br)  Possibly seeing the flaws or difficulties in some grand idea."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "category":"cups",
+  "read_by_default": true,
+  "sortnum": 78,
+  "name":"Eight of Cups",
+  "icon":"tarot:eight_of_cups",
+  "extra_recipe_mappings": [["tarot:eight_of_cups",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_cup8.png"],
+      "title": "℧ Eight of Cups ℧",
+      "border": false,
+      "text": "  Spirit of Abandoned Success$(br)     ♄ Saturn in ♓ Pisces"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A robed person is deserting the cups of past enterprises.$(br)  What was once their joy, undertaking, and concern, is now behind them. They walk uphill, literally going on to higher things.$(br)  At the shore, eight cups are stacked orderly like a wall but incomplete, giving the sense of stability and need for progress.$(br2)$(l)Divinatory meanings$()$(br)  Possibility of change in a stable situation. Flashes of"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "excitement, movement.$(br)  May mean that a matter which has been thought to be important is really of slight consequence - either for good or evil.$(br2)$(l)Reversed$()$(br)  Stability becomes emphasized. Feasting, great joy.$(br)  Seeing the value in what you have. Resisting a desire to move on."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "tarot:custom/tarotcard",
+  "textures": {
+    "all": "tarot:blocks/back6",
+    "particle": "tarot:blocks/back6",
+    "0": "tarot:blocks/back6",
+    "1": "tarot:blocks/back6"
+  }
+}

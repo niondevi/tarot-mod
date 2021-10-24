@@ -1,0 +1,46 @@
+{
+  "category":"about",
+  "read_by_default": true,
+  "sortnum": 3,
+  "name":"Tarot Readings",
+  "icon":"tarot:flipped_card",
+
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Tarot Readings",
+      "text": "  A Tarot reading takes place between the role of a Tarot Reader, who deals and interprets the cards, and the role of a Querent, one who seeks a message.$(br)  In some readings, these roles are played by the same person.$(br) The instructions delineated in the next pages will guide the aspirant reader through a successful Tarot reading."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Spreads",
+      "text": "  In Tarot readings, 'spreads' are patterns in which Tarot cards are laid out in specific configurations so as to frame their interpreted meaning. $(br)  There are countless types of spreads, each being a particular way to read the cards. The meaning of each card in a spread is viewed in context of its position.$(br)  Therefore, choosing an appropriate spread for each question is very important."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Below are a few three-card spreads that should be simple and self-describing.$(br2)   Past ∞ Present ∞ Future$(br2)  Fear ∞ Opportunity ∞ Hope$(br2)Situation ∞ Self ∞ Other People$(br2)   Helper ∞ Self ∞ Teacher$(br2)Lesson ∞ Challenge ∞ Potential$(br2) Choice ∞ Situation ∞ Choice$(br)"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  For these spreads it is recommended to start turning them over with the one in the middle, then on the left, and then on the right.$(br)  Spreads should be interpreted allegorically and not literally. For example, the positions marked 'Self' does not mean the Querent literally is that card or personage; instead it signifies the qualities that represent their current situation, perspective, role, etc."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Reading Steps",
+      "text": "❶ The Querent states their question clearly.$(br2)❷ The Querent shuffles the deck concealing the face of the cards, reversing the cards as they are shuffled if using reversed meanings.$(br)  They then may cut the deck into face down piles and let the Reader reassemble it.$(br2)$(o)    ( The $(l:patchouli:items/1tarot_deck)Tarot Deck$()$(o) item$(br)     is always shuffled )$()"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "❸ The Reader then draws and lays the top cards face down according to the positions of the chosen spread.$(br2)❹ The Reader then turns them over in the appropriate order, taking time to explore and communicate with the Querent for each card turned.$(br2)❺ The Reader may then lead the Querent into the interpretation of the spread and help them to make meaning of the messages of the cards."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Reading Tips",
+      "text":"  We should not try to apply exhaustive rationalizations about each card in a reading, instead we may use our intuition and try to sense what applies to each particular person and situation.$(br)  Divination is more like art then science. This is especially true due to the abstract symbolic nature of the Tarot cards.$(br)  Allow whatever comes to mind about the reading to reveal"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "itself, and choose among the clouds of possibilities what seems most appropriate.$(br)  It must be reminded that the Querent is not at all fated to any doom or fortune they may sense in the reading. Whatever messages we may read in the cards can't take away the power of personal choice.$(br)  The real purpose of a reading should be to inspire our choices and understanding.$(br)  Try it out, and let the stories in the cards bring out your intuition and wisdom!"
+    }
+  ]
+}

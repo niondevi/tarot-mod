@@ -1,0 +1,30 @@
+{
+  "category":"wands",
+  "read_by_default": true,
+  "sortnum": 61,
+  "name":"Page of Wands",
+  "icon":"tarot:page_of_wands",
+  "extra_recipe_mappings": [["tarot:page_of_wands",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_wandpage_1.png"],
+      "title": "⎧ Page of Wands ⎧",
+      "border": false,
+      "text": "  Rose of the Palace of Fire$(br)      $(m)∇$() Earth of ∆ Fire"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A young person stands in a barren and mountainous landscape. They hold a walking staff that has leaves sprouting from its tip.$(br)  They seem to be examining their staff, joyful for the fertile growth of the sprouts, even in this unlikely place.$(br)  The arid mountains are behind, a sign of elemental Fire, that skyward force that raises life from inert matter.$(br)  The heat of Fire is the spirit world imprinting itself on our actions."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  This card carries qualities of movement, eagerness, and the inner growth that sprouts through our adventures. $(br2)$(l)Divinatory meanings$()$(br)  Strength, eagerness, especially for new projects, great activity.$(br)  Passion that is innocent at the same time.$(br)  It can represent a person who is forthright and positive, who keeps no secrets, who brings a message."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Reversed$()$(br)  Can mean laziness or exhaustion; also indecision and the instability which goes with it.$(br)  It can represent someone who holds back feelings."
+    }
+  ]
+}

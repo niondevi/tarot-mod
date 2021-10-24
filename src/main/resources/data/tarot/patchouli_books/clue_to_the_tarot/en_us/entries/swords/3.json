@@ -1,0 +1,26 @@
+{
+  "category":"swords",
+  "read_by_default": true,
+  "sortnum": 93,
+  "name":"Three of Swords",
+  "icon":"tarot:three_of_swords",
+  "extra_recipe_mappings": [["tarot:three_of_swords",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_sword3.png"],
+      "title": "⤝ Three of Swords ⤝",
+      "border": false,
+      "text": "       Spirit of Sorrow$(br)     ♄ Saturn in ♎ Libra"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Three swords piercing a heart; clouds and rain move behind.$(br)  We get a sense of the pain taking over, driving away our humanity.$(br)  Anyone who has ever gone through a period of emotional pain will know the feeling of being 'stabbed in the heart'.$(br)  With a focus on that feeling, life can become overwhelming, pierced by all-encompassing anguish."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Removal, rupture, dispersion.$(br)  Pain, sadness, possible emotional disturbance.$(br2)$(l)Reversed$()$(br)  Distraction, confusion.$(br)  Release from sorrow or depression."
+    }
+  ]
+}

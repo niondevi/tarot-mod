@@ -1,0 +1,30 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 34,
+  "name":"14 - Temperance",
+  "icon":"tarot:temperance",
+  "extra_recipe_mappings": [["tarot:temperance",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_14tempance.png"],
+      "title": "14 ▪ Temperance ▪ ס",
+      "border": false,
+      "text": "     Bringer Forth of Life"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A winged angel, neither male nor female, with the sign of the sun upon their forehead.$(br)  They are seen pouring the essences of life from chalice to chalice.$(br)  They have one foot upon the earth and one upon waters, thus illustrating the nature of the essences.$(br)  Hereof is some part of the Secret of Eternal Life, as it is possible to humanity in their incarnation.$(br)  The changes in the seasons, perpetual movement of life and"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "even the combination of ideas can be seen represented.$(br)  It is called Temperance, because, when the rule of it obtains in our consciousness, it tempers, combines and harmonises the psychic and material natures.$(br)  Under that rule we know in our rational part something of whence we came and whither we are going."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Traditional temperance: calmness, self-possession, containment.$(br2)$(l)Reversed$()$(br)  Delirium. Excess.$(br)  Losing all awareness of self through extreme action or emotion."
+    }
+  ]
+}

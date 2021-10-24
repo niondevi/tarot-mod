@@ -1,0 +1,26 @@
+{
+  "category":"wands",
+  "read_by_default": true,
+  "sortnum": 60,
+  "name":"Ten of Wands",
+  "icon":"tarot:ten_of_wands",
+  "extra_recipe_mappings": [["tarot:ten_of_wands",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_wand10.png"],
+      "title": "⎧ Ten of Wands ⎧",
+      "border": false,
+      "text": "     Spirit of Oppression$(br)   ♄ Saturn in ♐ Sagittarius"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A person overburdened by the weight of the staves which they are carrying, is nevertheless active and on the move, but not seeing past their burden.$(br)  They are almost at their destination and will soon be able to release the heavy weight they are bearing for sacrifice.$(br)  The Fire of desire and sacrifice does not release us from our bodies or the world; instead, it allows us to burn brightly in our own lives."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Powerful dreams, responsibility, intense belief, desire, passion: being consumed by these; or these being consumed in a flash.$(br2)$(l)Reversed$()$(br)  Intrigues, burden, oppression, especially self-oppression through doubt.$(br)  Dismissing your dreams as trivial or impossible."
+    }
+  ]
+}

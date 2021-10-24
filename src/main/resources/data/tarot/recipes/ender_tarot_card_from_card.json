@@ -1,0 +1,16 @@
+{
+  "group": "tarot",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_eye"
+    },
+    {
+      "tag": "tarot:tarot_card_items"
+    }
+  ],
+  "result": {
+    "item": "tarot:ender_tarot_card",
+    "count": 1
+  }
+}

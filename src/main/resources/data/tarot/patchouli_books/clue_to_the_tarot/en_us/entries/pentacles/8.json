@@ -1,0 +1,30 @@
+{
+  "category":"pentacles",
+  "read_by_default": true,
+  "sortnum": 118,
+  "name":"Eight of Pentacles",
+  "icon":"tarot:eight_of_pentacles",
+  "extra_recipe_mappings": [["tarot:eight_of_pentacles",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_pen8.png"],
+      "title": "⍟ Eight of Pentacles ⍟",
+      "border": false,
+      "text": "      Spirit of Prudence$(br)      ☉ Sun in ♍ Virgo"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A young artist labors over a coin, carefully etching out a pentacle shape.$(br)  Seven other similar pentacle engraved coins, each one more beautifully crafted than the other, surround the workspace.$(br)  In the horizon, a small town; they have distanced themselves from the distractions of communal life as to dedicate to their skillful work.$(br)  They are concentrated, eager to do a good job and avoid any mistakes; with due patience their expertise improves."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  This card suggests a journey through difficult or painful issues to a more honest expression of who we are, sometimes through art. $(br2)$(l)Divinatory meanings$()$(br)  Self-expression, honesty, confrontation with harsh or disturbing issues, a process of creating a meaningful life.$(br)  Craftsmanship, perhaps in the preparatory stage."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Reversed$()$(br)  Beauty, perfection, especially in work.$(br)  Possibly misused creativity turned to compulsion, vanity, or intrigue."
+    }
+  ]
+}

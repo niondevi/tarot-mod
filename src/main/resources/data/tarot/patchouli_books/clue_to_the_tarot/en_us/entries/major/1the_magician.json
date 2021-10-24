@@ -1,0 +1,34 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 21,
+  "name":"1 - The Magician",
+  "icon":"tarot:the_magician",
+  "extra_recipe_mappings": [["tarot:the_magician",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_1magician.png"],
+      "title": "1 ▪ The Magician ▪ ב",
+      "border": false,
+      "text": "        Magus of Power"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A youthful figure in the robe of a magician, having the countenance of the divine Sun, with smile of confidence and shining eyes.$(br)  Above their head is the mysterious sign of the Holy Infinity, the sign of life, like an endless cord, forming the figure 8 in a horizontal position.$(br)  In the Magician's right hand is a wand raised towards heaven, while the left hand is pointing to the earth. This dual sign is well known for"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "the students of the Mysteries; it shows the descent of grace, virtue and light, drawn from things above and derived to things below.$(br)  The suggestion throughout is therefore the possession and communication of the Powers and Gifts of the Spirit.$(br)  On the table in front of the Magician are the symbols of the four Tarot suits, signifying the elements of natural life, which lie like tools before the adept, wating for their will."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Beneath are roses and lilies, planted as garden flowers, to show the culture of aspiration.$(br)  This card signifies the divine motive in each person, reflecting the highest divinity, the will in the liberation of its union with that which is above. It is also the unity of individual being on all planes, and in a very high sense it is Thought, in the fixation thereof."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Power, knowledge, creativity.$(br)  A sense of life as magical, when everything goes right.$(br2)$(l)Reversed$()$(br)  Weakness or suppressed energy.$(br)   Alternatively, the need to use power responsibly."
+    }
+  ]
+}

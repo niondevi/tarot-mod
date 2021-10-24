@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tarot:block/judgement"
+    },
+    "facing=east": {
+      "model": "tarot:block/judgement",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tarot:block/judgement",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tarot:block/judgement",
+      "y": 270
+    }
+  }
+}

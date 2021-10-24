@@ -1,0 +1,30 @@
+{
+  "category":"cups",
+  "read_by_default": true,
+  "sortnum": 74,
+  "name":"Four of Cups",
+  "icon":"tarot:four_of_cups",
+  "extra_recipe_mappings": [["tarot:four_of_cups",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_cup4.png"],
+      "title": "℧ Four of Cups ℧",
+      "border": false,
+      "text": "  Spirit of Blended Pleasure$(br)     ☽ Moon in ♋ Cancer"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A young person lays under a tree, three cups set on the grass before them; their expression notwithstanding is one of discontentment, as if the wine of this world had caused weariness only.$(br)  An arm issuing from a cloud offers them another cup, another wine, as if a fairy gift, but they see no consolation therein.$(br)  They seem to be under the after effect of a celebration that happened previously.$(br)  The verdant meadow and"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "vigorous tree, may suggests that growth and recovery are still possiblities.$(br)  Each suit, each element, carries its own problems and virtues. For Cups, the virtue is love (as well as other deep emotions) but the problem is passivity. $(br2)$(l)Divinatory meanings$()$(br)  Apathy, boredom, loss through inaction and passivity."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Reversed$()$(br)  Taking action, making a decision. Preventing loss. Novelty, presage."
+    }
+  ]
+}

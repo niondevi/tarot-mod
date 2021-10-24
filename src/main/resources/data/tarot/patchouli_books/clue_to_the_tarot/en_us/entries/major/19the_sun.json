@@ -1,0 +1,30 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 39,
+  "name":"19 - The Sun",
+  "icon":"tarot:the_sun",
+  "extra_recipe_mappings": [["tarot:the_sun",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_19sun.png"],
+      "title": "19 ▪ The Sun ▪ ר",
+      "border": false,
+      "text": " Lord of the Fire of the World"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The Sun coming out from the walled garden; the sunflowers turn to follow it in its journey back home.$(br)  A naked child sits on their red cape, symbolizing the destiny of the Holy Source and the great light which goes before the endless procession of humanity.$(br)  The card signifies, therefore, the transit from the manifest light of this world, represented by the glorious sun of earth, to the light of the world to come, which goes"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "before aspiration and is typified by the heart of a child.$(br)  The Sun is that of consciousness in the spirit - the direct as opposed to the reflected light of the Moon.$(br)  The characteristic type of humanity has become an innocent child therein - a child in the sense of simplicity, and innocence in the sense of wisdom.$(br)  In that simplicity, they bear the seal of Nature and of Art; in that innocence, they signify"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "the restored world.$(br)  When the Self-Knowing Spirit has dawned in the consciousness above the natural mind, that mind in its renewal leads forth the instinct in perfect ease.$(br2)$(l)Divinatory meanings$()$(br)  Joy, simplicity, confidence, innocence.$(br2)$(l)Reversed$()$(br)  We may have to look for hidden joy, as if clouds have partly covered the sun."
+    }
+  ]
+}

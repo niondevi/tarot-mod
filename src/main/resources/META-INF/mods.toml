@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="CC BY-NC 4.0"
+
+[[mods]]
+modId="tarot"
+version="1.0.0"
+displayName="Tarot"
+credits="Arcade Arcanum Tarot Deck by Rose (mozz). Mod made withMCreator & Blockbench."
+displayURL="https://www.curseforge.com/minecraft/mc-mods/tarot"
+logoFile="logo.png"
+authors="Nion"
+description='''
+Play with Tarot cards and find clues to their occult origins
+'''
+
+[[dependencies.tarot]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.tarot]]
+    modId="patchouli"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+

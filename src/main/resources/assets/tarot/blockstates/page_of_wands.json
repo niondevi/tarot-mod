@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tarot:block/page_of_wands"
+    },
+    "facing=east": {
+      "model": "tarot:block/page_of_wands",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tarot:block/page_of_wands",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tarot:block/page_of_wands",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "category":"swords",
+  "read_by_default": true,
+  "sortnum": 104,
+  "name":"King of Swords",
+  "icon":"tarot:king_of_swords",
+  "extra_recipe_mappings": [["tarot:king_of_swords",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_swordking_1.png"],
+      "title": "⤝ King of Swords ⤝",
+      "border": false,
+      "text": "  King of the Chariots of Wind$(br)        $(m)∆$() Air of $(m)∆$() Air"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A crowned man sits upon his throne, facing forward as if ready to confront whatever life throws at him.$(br)  He sits in judgment, holding the unsheathed weapon of his suit.$(br)  The back of his throne is decorated with a butterfly, hinting at transformation and liberty of thought.$(br)  The wind is calm and the clouds shift slowly in gentle movement; a symbol of his calm decisiveness and intellectual understanding."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  If nothing else, he is the master of intellect and of laws; laws of the mind and inner laws of creation.$(br)  Though he may honor justice, he represents in truth the power to life and death. Knights use their Swords for service, Kings use them for power.$(br)  He fitfully takes to the side of conquest in dedication to battle and empire, evoking this suit's side of conflict, anger, and pain; dire consequences of purely intellectual"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "demonstrations of power.$(br2)$(l)Divinatory meanings$()$(br)  Judgment, command, militant intelligence.$(br)  May mean someone in a position of authority, a powerful intellect; or someone who has fought plenty in life.$(br2)$(l)Reversed$()$(br)  Perversity, inconsistency, fanaticism.$(br) May mean someone aggressive, who uses fighting to gain control of others."
+    }
+  ]
+}

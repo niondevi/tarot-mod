@@ -1,0 +1,30 @@
+{
+  "category":"cups",
+  "read_by_default": true,
+  "sortnum": 72,
+  "name":"Two of Cups",
+  "icon":"tarot:two_of_cups",
+  "extra_recipe_mappings": [["tarot:two_of_cups",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_cup2.png"],
+      "title": "℧ Two of Cups ℧",
+      "border": false,
+      "text": "        Spirit of Love$(br)     ♀ Venus in ♋ Cancer"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Two youths are pledging to one another, and above their cups rises the mythical caduceus, between the great wings of which there appears a lion's head.$(br)  Love is that desire for union which is not in Nature, but by which Nature is sanctified.$(br)  The lion with wings atop the snakes is both a herald of transmutation and a chimera that warns us of the dangers of giving ourselves so totally to love."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Consciousness, self-awareness, critical thinking; these have less importance in a state of carnal and emotional bliss. $(br2)$(l)Divinatory meanings$()$(br)  People joining in love, sharing, a new relationship. Union, concord, sympathy.$(br)  Apart from romance, the card means feeling in perfect harmony with yourself and the world."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Reversed$()$(br)  Holding back from a relationship, separations."
+    }
+  ]
+}

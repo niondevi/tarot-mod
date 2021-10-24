@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tarot:block/wheel_of_fortune"
+    },
+    "facing=east": {
+      "model": "tarot:block/wheel_of_fortune",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tarot:block/wheel_of_fortune",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tarot:block/wheel_of_fortune",
+      "y": 270
+    }
+  }
+}

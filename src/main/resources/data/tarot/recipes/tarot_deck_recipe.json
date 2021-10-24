@@ -1,0 +1,42 @@
+{
+  "group": "tarot",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "tarot:tarot_card_items"
+    },
+    "1": {
+      "tag": "tarot:tarot_card_items"
+    },
+    "2": {
+      "tag": "tarot:tarot_card_items"
+    },
+    "3": {
+      "tag": "tarot:tarot_card_items"
+    },
+    "4": {
+      "item": "minecraft:enchanted_book"
+    },
+    "5": {
+      "tag": "tarot:tarot_card_items"
+    },
+    "6": {
+      "tag": "tarot:tarot_card_items"
+    },
+    "7": {
+      "tag": "tarot:tarot_card_items"
+    },
+    "8": {
+      "tag": "tarot:tarot_card_items"
+    }
+  },
+  "result": {
+    "item": "tarot:tarot_deck",
+    "count": 1
+  }
+}

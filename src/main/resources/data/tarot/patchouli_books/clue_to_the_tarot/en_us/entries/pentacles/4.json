@@ -1,0 +1,30 @@
+{
+  "category":"pentacles",
+  "read_by_default": true,
+  "sortnum": 114,
+  "name":"Four of Pentacles",
+  "icon":"tarot:four_of_pentacles",
+  "extra_recipe_mappings": [["tarot:four_of_pentacles",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_pen4.png"],
+      "title": "⍟ Four of Pentacles ⍟",
+      "border": false,
+      "text": "    Spirit of Earthy Power$(br)    ☉ Sun in ♑ Capricorn"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A lonely figure, sitting in the outskirts of their town.$(br)  They have a pentacle over their crown, clasp another with hands and arms; two pentacles are under their feet.$(br)  Sitting still, they have worries on their mind, anxious that anyone might take away their fixations.$(br)  They hold to that which they have.$(br)  Traditionally, this card represents the protection and power of possessions.$(br)  It serves us as a reminder"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "to honor and respect wealth, and of the consequence of being so attached to it in detriment of other most important things.$(br)  We know the ideal realizes itself in the physical. We must also know that it is not physicality itself, but the different ideals working within it, that give power.$(br)  In other words, we best fulfill our ideals through our means with actual investment in the world, and not in the hoarding of rewards."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Power derived from skill or possessions. Structure, legacy, inheritance.$(br)  Cleaving to that which one has. Avarice.$(br2)$(l)Reversed$()$(br)  Letting things go, lack of concern for material things.$(br)  Possibly a need for more structure, security, certainty in inner or outer life."
+    }
+  ]
+}

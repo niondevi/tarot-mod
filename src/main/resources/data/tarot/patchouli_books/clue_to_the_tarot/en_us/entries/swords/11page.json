@@ -1,0 +1,30 @@
+{
+  "category":"swords",
+  "read_by_default": true,
+  "sortnum": 101,
+  "name":"Page of Swords",
+  "icon":"tarot:page_of_swords",
+  "extra_recipe_mappings": [["tarot:page_of_swords",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_swordpage.png"],
+      "title": "⤝ Page of Swords ⤝",
+      "border": false,
+      "text": "   Lotus of the Palace of Air$(br)       $(m)∇$() Earth of $(m)∆$() Air"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A nimble figure holds a sword upright in both hands, while in the act of swift walking.$(br)  They pass over rugged land, and in the night sky the clouds dash wildly.$(br)  He is alert, looking this way and that, as if an expected enemy might find them at any moment.$(br)  However much we believe that we think clearly and objectively, much of our thinking derives from desire, fear, or simply instinct."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  How we think about the world, is but an abstraction of it. As a famous maxim puts it 'the map is not the territory.'$(br)  We must scout unknown territory, confronting uncertainty, if we are to be sure of our grasp. $(br2)$(l)Divinatory meanings$()$(br)  Overseeing, vigilance, spying.$(br)  May signify someone who is active in the world, but in an intellectual, detached way; or who believes they are"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "objective, but are driven by desires or fears.$(br2)$(l)Reversed$()$(br)  Requirement for greater awareness of your own motives.$(br)  Can mean suspicion or nervousness.$(br)  Can signify a less intellectual, more instinctive, active and detached person."
+    }
+  ]
+}

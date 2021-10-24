@@ -1,0 +1,9 @@
+{
+  "parent": "tarot:custom/tarotcard",
+  "textures": {
+    "all": "tarot:blocks/sword9",
+    "particle": "tarot:blocks/sword9",
+    "0": "tarot:blocks/sword9",
+    "1": "tarot:blocks/back6"
+  }
+}

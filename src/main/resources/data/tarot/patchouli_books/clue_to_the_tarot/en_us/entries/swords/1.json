@@ -1,0 +1,30 @@
+{
+  "category":"swords",
+  "read_by_default": true,
+  "sortnum": 91,
+  "name":"Ace of Swords",
+  "icon":"tarot:ace_of_swords",
+  "extra_recipe_mappings": [["tarot:ace_of_swords",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_swordace.png"],
+      "title": "⤝ Ace of Swords ⤝",
+      "border": false,
+      "text": "   Root of the Powers of Air$(br)    Invoked Whirling Force"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  In the middle of night, a hand issues from a dark cloud, grasping a sword, the point of which is encircled by a laureled crown.$(br)  The Suit of Swords belongs to the element of Air, which is related to thinking.$(br)  Therefore, the sword symbolizes a clear mind, originality, analysis.$(br)  We might think of the Sword as cutting through illusions or slicing through confused ideas.$(br)  The sharpness of the blade is said to symbolize a mind"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "capable of making fine distinctions.$(br)  But a sword is also a weapon designed for killing, symbolizing conflict and pain. Unlike an axe or a knife, it is not a tool. Unlike a bow or a spear you cannot hunt very well with it.$(br)  The association with battle gives it the quality of courage, and the willingness to confront reality.$(br)  Thinking is especially precise and sharp, when we have the courage and control"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "to look at our issues with total honesty and self-awareness. $(br2)$(l)Divinatory meanings$()$(br)  Great force, in love as well as in hatred. Triumph of force, conquest.$(br)  Thinking things through very clearly, facing conflict or pain honestly.$(br2)$(l)Reversed$()$(br)  Confused thinking. Difficulty facing issues, fear of conflict. Also formulation, multiplicity."
+    }
+  ]
+}

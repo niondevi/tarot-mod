@@ -1,0 +1,30 @@
+{
+  "category":"swords",
+  "read_by_default": true,
+  "sortnum": 99,
+  "name":"Nine of Swords",
+  "icon":"tarot:nine_of_swords",
+  "extra_recipe_mappings": [["tarot:nine_of_swords",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_sword9.png"],
+      "title": "⤝ Nine of Swords ⤝",
+      "border": false,
+      "text": " Spirit of Despair and Cruelty$(br)      ♂ Mars in ♊ Gemini"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A person seated on their couch in lamentation, the hands cover the face.$(br)  The swords are over them, parallel to each other, blocking the view from a window barely seen.$(br)  They are as one who knows no sorrow which is like unto them, it is a card of utter desolation.$(br)  This powerful and frightening image show us a representation of inner conflict.$(br)  It might make us think of"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "someone walled in despair and suffering, until they can finally muster the courage to take down the bars of their prison.$(br)  However, the situation may need to be overcome through faith and calculated inaction.$(br2)$(l)Divinatory meanings$()$(br)  Disappointment, failure, despair.$(br)  Enduring a cruel or painful situation.$(br)  Refusing to give in or look away."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Reversed$()$(br)  Imprisonment, doubt, shame.$(br)  Turning away from something.$(br)  Avoiding a painful situation."
+    }
+  ]
+}

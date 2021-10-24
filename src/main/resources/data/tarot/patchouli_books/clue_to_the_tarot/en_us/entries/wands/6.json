@@ -1,0 +1,30 @@
+{
+  "category":"wands",
+  "read_by_default": true,
+  "sortnum": 56,
+  "name":"Six of Wands",
+  "icon":"tarot:six_of_wands",
+  "extra_recipe_mappings": [["tarot:six_of_wands",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_wand6.png"],
+      "title": "⎧ Six of Wands ⎧",
+      "border": false,
+      "text": "       Spirit of Victory$(br)      ♃ Jupiter in ♌ Leo"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A laurelled knight bears one staff adorned with a laurel crown.$(br)  The card has been so designed that it can cover several significations; on the surface, it is a victor triumphing, but it is also great news, such as might be carried in state by the King's courier; it is expectation crowned with its own desire, the crown of hope, and so forth.$(br)  This card traditionally means confidence and optimism,"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "as well as the positive results from having such a strong belief in ourselves.$(br)  Here, the confidence is much more than self-assurance. It shows a belief in your own creativity, and all the things you can do with your skills and enthusiasm.$(br2)$(l)Divinatory meanings$()$(br)  Optimism, belief, a flurry of activity, productivity, many projects."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Reversed$()$(br)  Doubt, pessimism, creative blocks.$(br)  A need to believe more strongly in yourself and your capabilities."
+    }
+  ]
+}

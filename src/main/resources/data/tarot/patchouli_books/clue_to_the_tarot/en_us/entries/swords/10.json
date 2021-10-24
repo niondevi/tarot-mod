@@ -1,0 +1,30 @@
+{
+  "category":"swords",
+  "read_by_default": true,
+  "sortnum": 100,
+  "name":"Ten of Swords",
+  "icon":"tarot:ten_of_swords",
+  "extra_recipe_mappings": [["tarot:ten_of_swords",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_sword10_1.png"],
+      "title": "⤝ Ten of Swords ⤝",
+      "border": false,
+      "text": "        Spirit of Ruin$(br)      ☉ Sun in ♊ Gemini"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A prone figure, pierced by all the swords belonging to the card.$(br)  Dark clouds hovering above signify despair and a bleak situation.$(br)  However, there is hope in spite of the situation; the golden sky in the distance suggests that the darkest of night is over and a new day dawns.$(br)  We need to move forward with life, even if it causes initial pain and hurt, rather than falling down in a heap hoping"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "someone will take pity on us.$(br)  That requires us to experience the full impact of what has happened before we can move on.$(br)  We can look at this card as a shocking end of a struggle, or a sudden loss.$(br)  We may also look at it as transcendence. The mind gives us the ability to transcend pain through the act of contemplating the bigger picture."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Affliction, sadness, desolation.$(br)  Abstraction, detachment from emotion or habitual worries.$(br2)$(l)Reversed$()$(br)  Confusion, a flawed vision of advantage.$(br)  Becoming distracted by worry or responsibility."
+    }
+  ]
+}

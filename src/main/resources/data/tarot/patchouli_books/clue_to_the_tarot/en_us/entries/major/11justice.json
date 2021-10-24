@@ -1,0 +1,30 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 31,
+  "name":"11 - Justice",
+  "icon":"tarot:justice",
+  "extra_recipe_mappings": [["tarot:justice",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_11justice.png"],
+      "title": "11 ▪ Justice ▪ ל",
+      "border": false,
+      "text": " Daughter of the Lord of Truth"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A female figure holds a sword, point upwards, in her right hand, and a balance in her left. She is seated between identical pillars that hold a red curtain behind her.$(br)  Occult science, at first theoretical, has become practical, and has been taught verbally appearing in all the pitilessness of consequences, just toward the true Initiates (Balance), but terrible for the false ones (Sword).$(br)  The card seems to indicate that the moral principle which"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "deals unto every person according to their works, differs in its essence from the spiritual justice which is involved in the idea of choice.$(br)  This spiritual justice belongs to a mysterious order of Providence, in virtue of which it is possible for a select few to conceive the idea of dedication to the highest things through honesty. Like the gracious inspirations of the poet, we have them or have not, and their presence is as much a mystery as their"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "absence; it can be said it is the breathing of the Spirit where it wills.$(br2)$(l)Divinatory meanings$()$(br)  Honesty, especially the honesty to look at yourself.$(br)  A passion for justice.$(br)  A fair outcome, especially in a ruling.$(br2)$(l)Reversed$()$(br)  Dishonesty, especially with yourself. Apathy.$(br)  An unfair outcome or situation."
+    }
+  ]
+}

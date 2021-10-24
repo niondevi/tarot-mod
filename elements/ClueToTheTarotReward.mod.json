@@ -1,0 +1,10 @@
+{
+  "_fv": 24,
+  "_type": "loottable",
+  "definition": {
+    "type": "Advancement reward",
+    "pools": [],
+    "name": "entities/clue_to_the_tarot_reward",
+    "namespace": "mod"
+  }
+}

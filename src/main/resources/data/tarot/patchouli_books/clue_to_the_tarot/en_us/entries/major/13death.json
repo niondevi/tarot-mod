@@ -1,0 +1,30 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 33,
+  "name":"13 - Death",
+  "icon":"tarot:death",
+  "extra_recipe_mappings": [["tarot:death",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_13death.png"],
+      "title": "13 ▪ Death ▪ נ",
+      "border": false,
+      "text": "  Child of Great Transformers"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The mysterious rider moves slowly on a white horse, bearing a black banner emblazoned with the Mystic Rose, which signifies life.  Behind it lies the whole world of ascent in the spirit.$(br)  Between two pillars on the verge of the horizon there shines the sun of immortality.$(br)  The rider carries no visible weapon, yet all fall before them, sparing not even kings, bishops, children or maidens.$(br)  The veil or mask of life is perpetuated in change,"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "transformation and passage from lower to higher.$(br)  The natural transit of humans to the next stage of their being either is or may be one form of their progress; but the exotic and almost unknown entrance, while still in this life, into the state of mystical death is a change in the form of consciousness and the passage into a state to which ordinary death is neither the path nor gate.$(br)  The Thirteenth Card is placed between the visible and"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "the invisible worlds. It is the universal link in nature, the means by which all the influences react from one world to the other.$(br2)$(l)Divinatory meanings$()$(br)  Release from old patterns.$(br)  The end of something that has become burdensome or meaningless.$(br2)$(l)Reversed$()$(br)  Holding onto something even when you know it's finished.$(br)  Fear of change."
+    }
+  ]
+}

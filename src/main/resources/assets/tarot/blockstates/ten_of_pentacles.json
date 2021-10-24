@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tarot:block/ten_of_pentacles"
+    },
+    "facing=east": {
+      "model": "tarot:block/ten_of_pentacles",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tarot:block/ten_of_pentacles",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tarot:block/ten_of_pentacles",
+      "y": 270
+    }
+  }
+}

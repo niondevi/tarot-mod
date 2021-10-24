@@ -1,0 +1,26 @@
+{
+  "category":"pentacles",
+  "read_by_default": true,
+  "sortnum": 115,
+  "name":"Five of Pentacles",
+  "icon":"tarot:five_of_pentacles",
+  "extra_recipe_mappings": [["tarot:five_of_pentacles",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_pen5.png"],
+      "title": "⍟ Five of Pentacles ⍟",
+      "border": false,
+      "text": "   Spirit of Material Trouble$(br)     ☿ Mercury in ♉ Taurus"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A vagrant walking barefoot through a snow-storm with only a thin blanket to protect him from the bleak winter.$(br)  They pass by a stained glass window exuding warm light, oblivious to the five pentacles in its elaborate design.$(br)  Because they are so focused on their hardship, they fail to see that help is available to them inside the temple; and so continue on in their desperate journey.$(br)  Sometimes people may wallow"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "waiting on a miracle, when really, they need only ask for help to change their fortune. $(br2)$(l)Divinatory meanings$()$(br)  Loss, material troubles.$(br)  Being engrossed into an emotional situation, oblivious to the help at hand.$(br)  Possible sickness.$(br2)$(l)Reversed$()$(br)  Recovery among chaos, taking action to better your situation.$(br)  Sometimes lavishness."
+    }
+  ]
+}

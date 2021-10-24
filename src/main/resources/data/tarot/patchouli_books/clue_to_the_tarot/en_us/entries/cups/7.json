@@ -1,0 +1,26 @@
+{
+  "category":"cups",
+  "read_by_default": true,
+  "sortnum": 77,
+  "name":"Seven of Cups",
+  "icon":"tarot:seven_of_cups",
+  "extra_recipe_mappings": [["tarot:seven_of_cups",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_cup7.png"],
+      "title": "℧ Seven of Cups ℧",
+      "border": false,
+      "text": " Spirit of Illusionary Success$(br)     ♀ Venus in ♏ Scorpio"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Strange chalices of vision appear above a cloud, like a headdress of dreams.$(br)  A shadowed figure wonders at them from below.$(br)  Though the cups line up just as formally, their place above their witness gives them a much more dynamic quality - the dynamism of art and inspiration.$(br)  This mysterious quality of the card matches its traditional theme, that of fantasy, or illusion.$(br)  Myth, dreams and art are not"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "the ultimate reality, but they are a representation of it, an intuition of truth behind the mask of mystery. $(br2)$(l)Divinatory meanings$()$(br)  Inspiration, fantasies, mystery, dreams. Strange and captivating ideas.$(br)  May also mean masking our true feelings.$(br2)$(l)Reversed$()$(br)  Realism, planning what needs to be done, willing dreams into action."
+    }
+  ]
+}

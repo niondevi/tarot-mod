@@ -1,0 +1,30 @@
+{
+  "category":"swords",
+  "read_by_default": true,
+  "sortnum": 102,
+  "name":"Knight of Swords",
+  "icon":"tarot:knight_of_swords",
+  "extra_recipe_mappings": [["tarot:knight_of_swords",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_swordknight.png"],
+      "title": "⤝ Knight of Swords ⤝",
+      "border": false,
+      "text": "   Heir of Winds and Breezes$(br)        ∆ Fire of $(m)∆$() Air"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A knight riding in full course, as if scattering their enemies. They hold their sword high, a display of dedication to their mission.$(br)  They remind us of a prototypical hero of romantic chivalry, whose sword is swift and sure because he is clean of heart.$(br)  The emblem of their suit is the classical weapon of the knight; one might say the entire suit of Swords moves around this card.$(br)  This Knight does not doubt"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "their purpose or their calling.$(br)  Whether attacking or defending, they do not hesitate to fulfill their duties with swift intellect and, if need be, force.$(br)  Wielding a sword is the privilege of knights. Therefore, this card can indicate a fearless warrior, or possibly a person with social advantages.$(br2)$(l)Divinatory meanings$()$(br)  Wrath, opposition, resistance.$(br)  May represent a warrior,"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "a hero, someone of class or privilege.$(br2)$(l)Reversed$()$(br)  Brashness, imprudence, extravagance.$(br)  Going too far, charging ahead when caution is a better policy."
+    }
+  ]
+}

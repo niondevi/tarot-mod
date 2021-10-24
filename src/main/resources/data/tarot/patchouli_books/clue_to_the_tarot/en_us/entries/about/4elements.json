@@ -1,0 +1,53 @@
+{
+  "category":"about",
+  "read_by_default": true,
+  "sortnum": 4,
+  "name":"The Four Elements",
+  "icon":"tarot:flipped_card",
+
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "  Among many philosophies that search for the nature of our reality, we find some that try and break down all of phenomena into its 'elemental' properties.$(br)  The word 'elemental' here does not refer to a chemical element such as Hydrogen; it refers to a set of ideas that summarizes certain qualities.$(br)  A common theory is of four abstract sets of properties"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "that manifest all things through their interaction.$(br)  We find this pattern taking different forms according to the culture, philosophy, religion, and habits of many periods and places.$(br)  Sometimes these four abstract sets are called, conveniently, the Four Elements, and are fashioned symbolically after natural phenomena.$(br)  The ideas behind these Elements can be metaphorically illustrated through myth."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Creation from Nothing",
+      "text": "  Before time there was nothingness. Then, like a point of limitless light, some thing pierced that nothingness.$(br)  At that instant the first spark shone, and the first shadow embraced it in reflection.$(br)  They were the first elements, and they were equal and opposite; Fire was hot and dry, and Water, wet and cold.$(br)  They wept in separation and wished for completeness in the"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "bliss of reunion.$(br)  They danced together and from the sublime vapors of their blend, emerged the moving medium of Air, bearing both warmth and fluidity.$(br)  Though Air helped Fire to burn and Water to spread, its heat dried some of the wetness of Water, and the wetness of Air cooled some of the heat of Fire.$(br)  Of those pieces that were both cold and dry, Earth was born as the resting point among the movement of the"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "other Elements. It was inert, but also further absorbed and transformed the others, taking on many material forms.$(br)  In time, Earth was dissolved by Water, Water was evaporated by Fire, and Fire disappeared in the Air.$(br)  Within this manifold cycle it is to be known the process by which the immaterial becomes materialized."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Elemental Properties",
+      "text": "  The allegorical concepts known as the Four Elements are then as follow:$(br2)   ∆ Fire - hot and dry$(br)   ∇ Water - cold and wet$(br)   $(m)∆$() Air - hot and wet$(br)   $(m)∇$() Earth - cold and dry$(br2)  Like the four seasons of the year, or the four cardinal directions, the Elements transmute and blend in each other to produce all possible"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "combinations of their properties. In this way the Elements in themselves represent extreme states of the same cycle of transformation across all planes.$(br)  We see the Four Elements in the energetic properties of activity, cohesion, vibration, and inertia. As the states of matter, we see them as plasma, liquid, gas, and solid. In humanity we see it as the fiery spirit, watery Soul, airy Mind, and earthy Body."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  With a little inquiry we can observe the elemental properties of any thing; for example, an iron ingot, can be describe by: its magnetism as a fiery quality, ductility as watery, conductivity as airy, and its hardness as earthy.$(br)  The same rationalization can be used for any other thing or phenomenon.$(br)  The relations between the Four Elements is explained in the idea of $(l:patchouli:about/5enumerations)The Ten Enumerations$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Elements in the Tarot",
+      "text": "  The Tarot then, is a continuation of this system and gives it new form as the Four Suits: Wands for Fire, Cups for Water, Swords for Air, and Pentacles for Earth.$(br)  The idea is further expanded into the Court Cards in each suit which also in their turn represent an elemental coupling: The King of each suit represents the Fiery part of its suit, The Queens are the Watery part, The Knights are"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "the Air, and the Pages are the Earth.$(br)  We can see these cards as interpretations of the mixtures of the Elements.$(br)  As such, the King of Wands, the Queen of Cups, the Knight of Swords, and the Page of Pentacles are the most pure manifestation of each of the Four Elements in the Tarot.$(br)  The ten numbered cards in each suit correspond to an Elemental expression of one of $(l:patchouli:about/5enumerations)Ten Enumerations$(), further emanations from the Elements."
+    }
+  ]
+}

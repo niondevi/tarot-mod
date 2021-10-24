@@ -1,0 +1,43 @@
+{
+  "category":"about",
+  "read_by_default": true,
+  "sortnum": 5,
+  "name":"The Ten Enumerations",
+  "icon":"tarot:flipped_card",
+
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "  A few theories expand further still on the subtler implications of the $(l:patchouli:about/4elements)Four Element$() idea.$(br)  In the Tarot, we see these subtleties expressed through the numbered cards of each suit. To better understand their meaning we must look to understand how the Four Elements produce the Ten Enumerations.$(br)  Let us go back to the Four"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Elements then. Many things can be said of the relationships between them, but for now, let's just count them. We can think of it in this way: at first, when Fire first sparks, there is only one possible relationship:$(br2) ① Fire in relation to Fire$(br2)With Water manifest, there is now two more relationships:$(br2) ② Water in relation to Water$(br) ③ Water in relation to Fire"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "From this third relation is born the element of Air, and thus, three more relationships:$(br2) ④ Air in relation to Water$(br) ⑤ Air in relation to Fire$(br) ⑥ Air in relation to Air$(br2) Finally, as the element of Earth consolidates, so comes four more relationships:$(br2) ⑦ Earth in relation to Water$(br) ⑧ Earth in relation to Fire$(br) ⑨ Earth in relation to Air$(br) ⑩ Earth in relation to Earth"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Only through these ten relations can nothingness reveal its infinite endlessness into the universe.$(br)  This idea is geometrically symbolized in the ancient diagram called tetractys:$(br2)              ▪$(br)             ▪ ▪$(br)            ▪ ▪ ▪$(br)           ▪ ▪ ▪ ▪$(br2)  More curiously it can also be seen in the following geometric progression:"
+    },
+    {
+      "type": "patchouli:text",
+      "text": " ▪ One vertex describing a point in a zero dimensional infinite nothingness.$(br) ▪ Two vertices describing a segment in a one dimensional infinite line.$(br) ▪ Three vertices describing a triangle in a two dimensional infinite plane.$(br) ▪ Four vertices describing a tetrahedron in a three dimensional infinite volume.$(br2)  In some philosophies these ten relations are called Ten Enumerations. For the purpose"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "of this introduction we give their names and astrological attributions:$(br2) ① Crown - ◌ The First Cause$(br) ② Wisdom - ★⋆ The Zodiac$(br) ③ Understanding - ♄ Saturn$(br) ④ Mercy - ♃ Jupiter$(br) ⑤ Strength - ♂ Mars$(br) ⑥ Beauty - ☉ Sun$(br) ⑦ Victory - ♀ Venus$(br) ⑧ Splendor - ☿ Mercury$(br) ⑨ Foundation - ☽ The Moon$(br) ⑩ Kingdom - ⨁ The Earth $(br2)  Each of these emanations of"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "the Four Elements has a deep significance of its own.$(br)  This means that to describe reality in the form of this knowledge, one must postulate these ten successive ideas.$(br)  The Ten Enumerations are symbolized in the Tarot by the forty numbered cards representing these abstractions through the expression of the Four Elements.$(br)  In the practice of Qabalah, the Ten Enumerations are organized further into a"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "diagram called the Tree of Life where $(l:patchouli:about/6paths)22 new relations$() between the Ten Enumerations are defined."
+    }
+
+  ]
+}

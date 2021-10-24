@@ -1,0 +1,30 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 27,
+  "name":"7 - The Chariot",
+  "icon":"tarot:the_chariot",
+  "extra_recipe_mappings": [["tarot:the_chariot",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_7chariot.png"],
+      "title": "7 ▪ The Chariot ▪ ח",
+      "border": false,
+      "text": " Lord of the Triumph of Light"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A majestic figure rides upright in a chariot, though they hold no reins.$(br)  They wear a crown earned through their victories and conquests. Their breastplate symbolize Light and Truth.$(br)  They have led captivity captive; they are conquest on all planes - in the mind, in science, in progress, in certain trials of initiation.$(br)  Two sphinxes draw their chariot, accounting for having answered correctly to the mythic question of the Sphinx;"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "though they saw it only as clever wordplay, failing to comprehend its occult mysterious meaning.$(br)  The black and white sphinxes represent complementary and opposing forces, the sum of their movement leading the chariot along.$(br)  The planes of their conquest are external and not within themselves. The liberation which they effect may leave them in bondage to their rationale.$(br)  Regardless of their physical"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "or rational triumphs, they would fail to answer the High Priestess or open her scroll.$(br)  They triumph first in mind.$(br2)$(l)Divinatory meanings$()$(br)  Will, volition, balance. Great force of character.$(br)  Success, power.$(br2)$(l)Reversed$()$(br)  Weakening will, losing control.$(br)  Doubt, but also openness to sharing, or working with others."
+    }
+  ]
+}

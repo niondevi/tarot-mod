@@ -1,0 +1,30 @@
+{
+  "category":"swords",
+  "read_by_default": true,
+  "sortnum": 97,
+  "name":"Seven of Swords",
+  "icon":"tarot:seven_of_swords",
+  "extra_recipe_mappings": [["tarot:seven_of_swords",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_sword7.png"],
+      "title": "⤝ Seven of Swords ⤝",
+      "border": false,
+      "text": "   Spirit of Unstable Effort$(br)     ☽ Moon in ♒ Aquarius"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  An overgrown dark field where seven swords are stuck in the ground, only their hilts are seen above the vegetation.$(br)  They await for whoever hid them there to come back, and finally wield them again to execute a treacherous plan.$(br)  Rather than dutifully following the process, people may look for alternative ways to resolve their problem quickly so they can move towards their goals.$(br)  Using our intuition and strategy sometimes we can"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "bring our attention to the few tasks that will move us closer to our goals, even if conflict or deception may be involved.$(br)  Like the swords scattered on the field, the parts that make up our lives are often isolated from each other. We can work with that and attempt something new.$(br)  Though keep in mind, some situations simply cannot be solved with trickery, and these will prove futile. Sometimes you just have to face what has to be faced."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Difficult effort, struggle, annoyance, attempts to see things more clearly.$(br)  A wish for a new strategy even if it may fail.$(br)  The need to define yourself, your plans, your position.$(br2)$(l)Reversed$()$(br)  Individuality. Personal efforts being rewarded.$(br)  Counsel, advice. Clearing away obstacles."
+    }
+  ]
+}

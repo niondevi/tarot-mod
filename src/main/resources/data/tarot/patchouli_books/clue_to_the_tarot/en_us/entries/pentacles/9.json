@@ -1,0 +1,30 @@
+{
+  "category":"pentacles",
+  "read_by_default": true,
+  "sortnum": 119,
+  "name":"Nine of Pentacles",
+  "icon":"tarot:nine_of_pentacles",
+  "extra_recipe_mappings": [["tarot:nine_of_pentacles",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_pen9_1.png"],
+      "title": "⍟ Nine of Pentacles ⍟",
+      "border": false,
+      "text": "    Spirit of Material Gain$(br)      ♀ Venus in ♍ Virgo"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A lofty woman, stands amid a great abundance of grapevines in the beautiful garden of a manorial house. It is a wide field, suggesting plenty in all things.$(br)  She wears a flowing robe, a sign of her wealth and social status.$(br)  The vines behind her are heavy with grapes and golden coins, representing the fruitful accomplishment of all her desires.$(br)  Her right hand rests upon one of the nine coins, and her"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "fingers wrap around the purple grapes on the vine, illustrating her careful relationship with riches.$(br)  A colorful bird rests calmly on her left hand, signifying the woman’s intellectual and spiritual mastery; even if in complacent aloofness to the world beyond her garden.$(br)  This is a card of sudden fortunes, gains and loss; but also of comfort, abundance, and the melancholy that follows.$(br)  Whether spent carelessly or given generously, riches spent"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "without judgment or control manifest our desire to give up our material possessions. $(br2)$(l)Divinatory meanings$()$(br)  Independence, prudence, luxury and discernment.$(br)  Riches spent freely, possibly foolishly. Being unattached to possessions.$(br2)$(l)Reversed$()$(br)  Concern for the future, a need to reconsider plans.$(br)  Dependence, destitution, holding on to riches."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 23,
+  "name":"3 - The Empress",
+  "icon":"tarot:the_empress",
+  "extra_recipe_mappings": [["tarot:the_empress",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_3empress.png"],
+      "title": "3 ▪ The Empress ▪ ד",
+      "border": false,
+      "text": "  Daughter of the Mighty Ones"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A stately woman, seated and crowned with a garland, having rich vestments and royal aspect, as of a daughter of heaven and earth.$(br)  A field of corn is ripening in front of her, and beyond there is a fall of water.$(br)  The sceptre which she bears is surmounted by a golden world globe.$(br)  She is the Earthly Garden of Creation, all that is symbolized by the visible house of the woman.$(br)  She is not Queen of Heaven,"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "but she is a sanctuary; the fruitful mother of thousands.$(br)  There are also certain aspects in which she has been correctly described as Desire and the wings thereof, and as the Most Holy Veil.$(br)  She is above all things universal fertility and the outer sense of the Word.$(br)  There is no direct message which has been given to humanity like that which is borne by woman; even if she does not herself carry its interpretation."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  In other words, while the card of the Empress signifies the way for all into this life; the way out therefrom, into the beyond, is the secret known to $(l:patchouli:major/2the_high_priestess)The High Priestess$(), only told by her to the elect.$(br2)$(l)Divinatory meanings$()$(br)  Passion, sensuality, desire. Motherhood and nurturing.$(br2)$(l)Reversed$()$(br)  Detachment, emotional distance.$(br)  Thinking something through."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 25,
+  "name":"5 - The Hierophant",
+  "icon":"tarot:the_hierophant",
+  "extra_recipe_mappings": [["tarot:the_hierophant",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_5herophant.png"],
+      "title": "5 ▪ The Hierophant ▪ ו",
+      "border": false,
+      "text": "   Magus of the Eternal Gods"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The Hierophant wears a triple crown and is seated between two pillars at the entrance of a temple, but not of the same temple guarded by $(l:patchouli:major/2the_high_priestess)The High Priestess$().$(br)  In his left hand he holds a sceptre terminating in the triple cross, and with his right hand he gives the well-known sign of esotericism, distinguishing between the manifest and concealed part of doctrine.$(br)  It is noticeable in this connection that $(l:patchouli:major/2the_high_priestess)The High$()"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l:patchouli:major/2the_high_priestess)Priestess$() makes no sign at all.$(br)  At his feet are the keys to the other world.$(br)  He represents the ruling power of external religion, in contrast to esoteric, inner power.$(br)  The proper meanings of this card have suffered woeful admixture from nearly all hands.$(br)  Truly, this card is the power of the keys, exoteric orthodox doctrine, and the outer side of the life which leads to the doctrine; but he"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "is certainly not the symbol of esoteric occult doctrine.$(br)  He is rather the summary of theology when it has passed into the utmost rigidity of expression; but he symbolizes also all things that are righteous and sacred on the manifest side.$(br)  As such, he is the channel of grace belonging to the world of institution as distinct from that of Nature, and he is a leader for the human race at large.$(br)  He is the order and the"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "head of the recognized hierarchy; but it may be that 'His Holiness' forgets the significance of his symbolic state and acts as if he contained within himself all that his symbol seeks to show forth.$(br)  He does not represent, as it has been thought, philosophy - except on the theological side; he is not inspiration; and he is not religion, although he is a mode of its expression.$(br)  He is one who shows sacred things as outer truth."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Teachings, traditional ideas, wisdom.$(br)  Gaining wisdom or knowledge from dreams or symbols.$(br2)$(l)Reversed$()$(br)  Unorthodoxy, finding your own path.$(br)  Knowledge through resignification."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "A Clue to the Tarot",
+  "landing_text": "  Interpretation of the Cards,$(br)  Divination & Occult Origins$(br2)  ༺ a work of ♡ by Nion ༻$(br2)            A⚝Ø$(br2)    with illustrations from$(br2)   ∞ The Arcade Arcanum ∞$(br)    a Tarot deck by Rose",
+  "version": 0,
+	"subtitle": "⨁ ☽ ☿ ♀ ☉ ♂ ♃ ♄ ★⋆ ◌",
+	"book_texture":"tarot:textures/bookgui.png",
+  "filler_texture": "tarot:textures/page_filler.png",
+	"model":"tarot:book_key",
+	"text_color":"111111",
+	"header_color":"333333",
+	"nameplate_color":"FFDD00",
+	"link_color":"12B080",
+	"link_hover_color":"17E5A7",
+	"show_progress":false,
+	"creative_tab":"tabtarot",
+	"pause_game":true,
+	"show_toasts":true,
+	"use_blocky_font":false
+}

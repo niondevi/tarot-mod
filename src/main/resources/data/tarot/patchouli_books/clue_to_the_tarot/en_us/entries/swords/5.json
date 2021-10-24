@@ -1,0 +1,30 @@
+{
+  "category":"swords",
+  "read_by_default": true,
+  "sortnum": 95,
+  "name":"Five of Swords",
+  "icon":"tarot:five_of_swords",
+  "extra_recipe_mappings": [["tarot:five_of_swords",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_sword5_1.png"],
+      "title": "⤝ Five of Swords ⤝",
+      "border": false,
+      "text": "       Spirit of Defeat$(br)    ♀ Venus in ♒ Aquarius"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A person looks on in disdain over their shoulder.$(br)  Four swords levitate in formation in the air; and a fifth sword is in their right hand, point to the earth.$(br)  They are the oppressive master in possession of the battlefield, while two figures retreat in humiliation.$(br)  After a conflict we can readily see its consequences taking their toll, even if one comes out the apparent victor, they soon realize that they have lost as much as (or more"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "than) their opponents.$(br)  The price of contention is loss of trust, respect, dignity, and often company.$(br)  As they try to pick up the pieces and set the conflict behind them, they find it's more difficult than they thought; others have lost faith in them and are already keeping their distance.$(br)  The longer they brood, or the more force they spent trying to prove themselves, the more challenging will be the resolution."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Destruction, infamy, dishonour, overconfidence.$(br)  Followed by defeat, shame, depression, silence.$(br)  A harsh situation where people cannot communicate.$(br2)$(l)Reversed$()$(br)  Speaking up, defending yourself. Refusal to accept defeat.$(br)  A call for a harmonious clarification."
+    }
+  ]
+}

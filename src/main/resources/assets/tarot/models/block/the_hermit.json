@@ -1,0 +1,9 @@
+{
+  "parent": "tarot:custom/tarotcard",
+  "textures": {
+    "all": "tarot:blocks/9hermit",
+    "particle": "tarot:blocks/9hermit",
+    "0": "tarot:blocks/9hermit",
+    "1": "tarot:blocks/back6"
+  }
+}

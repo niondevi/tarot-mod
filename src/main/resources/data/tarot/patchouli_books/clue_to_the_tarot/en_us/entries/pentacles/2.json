@@ -1,0 +1,30 @@
+{
+  "category":"pentacles",
+  "read_by_default": true,
+  "sortnum": 112,
+  "name":"Two of Pentacles",
+  "icon":"tarot:two_of_pentacles",
+  "extra_recipe_mappings": [["tarot:two_of_pentacles",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_pen2.png"],
+      "title": "⍟ Two of Pentacles ⍟",
+      "border": false,
+      "text": "  Spirit of Harmonious Change$(br)   ♃ Jupiter in ♑ Capricorn"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A young person, in the act of juggling, has a pentacle in either hand, and they are joined by that endless cord which is like the symbol of Infinity.$(br)  Behind them, ships endure the troubled sea, flowing with the turbulence.$(br)  The cord symbolizes the infinite movement of nature's fixed laws; the two pentacles, the duality of manifest force in a state of play that overcomes rigid definition.$(br)  What was once on the left"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "hand can be now on the right hand, and vice-versa; their paths change course, yet the movement and exchange in between are eternal. $(br2)$(l)Divinatory meanings$()$(br)  Balance, exchange of energy, movement between different kinds of work.$(br)  Agitation, embroilment.$(br2)$(l)Reversed$()$(br)  Imbalance, fake enjoyment. Search for literal meaning.$(br)  The need to focus your"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "energy on one task, or one area of your life, even if this means letting other things go."
+    }
+  ]
+}

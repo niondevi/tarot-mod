@@ -1,0 +1,30 @@
+{
+  "category":"pentacles",
+  "read_by_default": true,
+  "sortnum": 113,
+  "name":"Three of Pentacles",
+  "icon":"tarot:three_of_pentacles",
+  "extra_recipe_mappings": [["tarot:three_of_pentacles",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_pen3.png"],
+      "title": "⍟ Three of Pentacles ⍟",
+      "border": false,
+      "text": "    Spirit of Material Works$(br)     ♂ Mars in ♑ Capricorn"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Three pentacles are shown as part of the beautiful architecture of a monastery.$(br)  The intricate engraving of the design is proof of the skill of the sculptor.$(br)  The art piece rests atop the high ceiling, integrated in the sturdy masonry built by the architect.$(br)  This creation would hold no meaning if not for the spiritual understanding it symbolizes, which is the contribution of the monastery monk."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Each person has an important role to play, the things they do that represent them, the kind of work they do, what they produce and give to others - in exchange for payment, but also as a way to realize their creativity.$(br)  When they come together as a team, they can create something much more significant than if they were to undertake the project on their own.$(br)  Without spiritual truth, any effort, especially art, is"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "empty. Without knowledge and skill, it is mute and fickle. Without actual hard work, it is never realized.$(br)  This card signifies mastery at work and its synergies. $(br2)$(l)Divinatory meanings$()$(br)  Hard work, mastery, skill, cooperation, success, renown, glory.$(br2)$(l)Reversed$()$(br)  Mediocrity, failure to do the best possible. Difficulty cooperating, pettiness."
+    }
+  ]
+}

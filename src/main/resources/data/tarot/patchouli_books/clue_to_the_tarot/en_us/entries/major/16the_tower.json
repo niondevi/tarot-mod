@@ -1,0 +1,30 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 36,
+  "name":"16 - The Tower",
+  "icon":"tarot:the_tower",
+  "extra_recipe_mappings": [["tarot:the_tower",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_16tower.png"],
+      "title": "16 ▪ The Tower ▪ פ",
+      "border": false,
+      "text": "  Spirit of the Fire of Heaven"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  This card bears the picture of a tower, with its battlements struck by lightning; all people, both crowned and uncrowned, falling with the fragments of broken masonry.$(br)  It depicts mind in all its aspects; it also contains the first allusion to a material building.$(br)  It signifies the culmination of the spiritual word.$(br)  Some imagine that it is the downfall of the mind, seeking to penetrate the mystery of Creation; but it is rather the"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "ruin of the House of We, when evil has prevailed therein, and above all that it is the ruins of a House of Doctrine.$(br)  There is a sense in which the catastrophe is a reflection from the previous card, but not on the side of the symbolism which was indicated therein; $(l:patchouli:major/15the_devil)The Devil$() is concerned with the fall into the material and animal state, while this card signifies destruction on the intellectual side."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Painful or destructive experience, sometimes even violence.$(br)  The ultimate result is liberation.$(br2)$(l)Reversed$()$(br)  The experience is not as extreme, but also not as liberating."
+    }
+  ]
+}

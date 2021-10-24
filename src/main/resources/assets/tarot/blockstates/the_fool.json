@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tarot:block/the_fool"
+    },
+    "facing=east": {
+      "model": "tarot:block/the_fool",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tarot:block/the_fool",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tarot:block/the_fool",
+      "y": 270
+    }
+  }
+}

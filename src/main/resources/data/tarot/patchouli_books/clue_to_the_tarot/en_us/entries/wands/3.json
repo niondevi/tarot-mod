@@ -1,0 +1,30 @@
+{
+  "category":"wands",
+  "read_by_default": true,
+  "sortnum": 53,
+  "name":"Three of Wands",
+  "icon":"tarot:three_of_wands",
+  "extra_recipe_mappings": [["tarot:three_of_wands",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_wand3.png"],
+      "title": "⎧ Three of Wands ⎧",
+      "border": false,
+      "text": " Spirit of Established Strength$(br)       ☉ Sun in ♈ Aries"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A calm, stately person, with their back turned, looking from a cliff's edge at ships leaving to the sea.$(br)  Three staves are planted in the ground, and they lean slightly on one of them.$(br)  Unlike the $(l:patchouli:wands/2)Two of Wands$(), the card is far from balanced. The staves are separated into two and one, giving us an idea of opposition, or of a single person being isolated from a group.$(br)  There are many ways people can find themselves alone and"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "facing a closed group of other people.$(br)  But the staff by itself facing the other two also can suggest independence, or non-conformity.$(br)  The impulsive approach to life sometimes just burns its way through the world and other aspects can become lost or sacrificed along the way.$(br2)$(l)Divinatory meanings$()$(br)  Power, independence, divisions between people.$(br)  Explorations, heroic action,"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "possibly involving sacrifice.$(br2)$(l)Reversed$()$(br)  Cooperation, people working together."
+    }
+  ]
+}

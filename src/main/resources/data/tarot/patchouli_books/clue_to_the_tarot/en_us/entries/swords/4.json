@@ -1,0 +1,26 @@
+{
+  "category":"swords",
+  "read_by_default": true,
+  "sortnum": 94,
+  "name":"Four of Swords",
+  "icon":"tarot:four_of_swords",
+  "extra_recipe_mappings": [["tarot:four_of_swords",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_sword4.png"],
+      "title": "⤝ Four of Swords ⤝",
+      "border": false,
+      "text": "   Spirit of Rest from Strife$(br)     ♃ Jupiter in ♎ Libra"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A sword lies resting on a slate peacefully while three swords appear to rise past it, in the night sky.$(br)  Swords rising into the air would hint at a release from pain, as if the situation resolves on its own.$(br)  We might interpret this as information, knowledge, or ideas, rising as weapons for the future while we rest from past battles."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Rest, withdrawal, a truce.$(br)  Problems may resolve themselves on their own.$(br2)$(l)Reversed$()$(br)  Covetousness, precaution, getting involved.$(br)  Information that leads to action."
+    }
+  ]
+}

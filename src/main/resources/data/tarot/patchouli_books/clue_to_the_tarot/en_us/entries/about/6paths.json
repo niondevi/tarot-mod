@@ -1,0 +1,36 @@
+{
+  "category":"about",
+  "read_by_default": true,
+  "sortnum": 6,
+  "name":"The Twenty Two Paths",
+  "icon":"tarot:flipped_card",
+
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "  Through the exploration of the $(l:patchouli:about/4elements)Four Elements$() and their implications we were able to understand the basis of all 56 of the suited cards of the Minor Arcana.$(br)  We may dive further into the subject, as did the first initiates, on the implications of the $(l:patchouli:about/5enumerations)Ten Enumerations$(), and so finally understand the occult significance of the mystifying Major Arcana."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  With the evolution of this theory across the ages, a diagram known as the Tree of Life was revealed.$(br)  In this symbolic diagram, the Ten Enumerations are arranged in such a way as to corresponds with all phenomena, like a metaphorical map of the universe.$(br)  Between the Ten Enumerations are traced twenty two paths; these correspond to the twenty two letters of Ashurit, the archaic alphabet of the sacred Book of Formation."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_treeoflife.png"],
+      "border": false,
+      "text": "        The Tree of Life"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The number is also explained to be the figurative sum of the 3 spatial dimensions + 7 classical planets + 12 zodiacal constellations.$(br)  The true explanation becomes muddled among the many produced by mystics, poets, scientists and charlatans through time; but these 22 paths represent the connections between each of the Ten Enumerations, complex relations in this model of the universe.$(br)  If the Ten Enumerations are"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "the result of the interaction of the Four Elements of manifestation, then the Twenty Two Paths are the result of the interactions between the Ten Enumerations.$(br)  We can imagine the paths as conduits for the ethereal flow of a mysterious Fifth Element that binds the other four, moving through manifestation, but not being bound by it.$(br)  The cards of the Major Arcana are the representation of these Twenty Two Paths in the Tarot, and they are to the"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "numbered cards of the Minor Arcana, then, as the Paths are to the Ten Enumerations.$(br)  The subject, as one can see gets increasingly complex and further study is encouraged.$(br)  The occult wisdom of the Tarot, as briefly demonstrated, can be traced back to the image of the Tree of Life.$(br)  This is the basis of the theory behind the Qabalah, a philosophy as complete as to explain the universe and simple enough as to be hidden in a deck of cards."
+    }
+  ]
+}

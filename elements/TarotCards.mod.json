@@ -1,0 +1,248 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:TheFool"
+      },
+      {
+        "value": "CUSTOM:TheMagician"
+      },
+      {
+        "value": "CUSTOM:TheHighPriestess"
+      },
+      {
+        "value": "CUSTOM:TheEmpress"
+      },
+      {
+        "value": "CUSTOM:TheEmperor"
+      },
+      {
+        "value": "CUSTOM:TheHierophant"
+      },
+      {
+        "value": "CUSTOM:TheLovers"
+      },
+      {
+        "value": "CUSTOM:TheChariot"
+      },
+      {
+        "value": "CUSTOM:Strength"
+      },
+      {
+        "value": "CUSTOM:TheHermit"
+      },
+      {
+        "value": "CUSTOM:WheelOfFortune"
+      },
+      {
+        "value": "CUSTOM:Justice"
+      },
+      {
+        "value": "CUSTOM:TheHangedMan"
+      },
+      {
+        "value": "CUSTOM:Death"
+      },
+      {
+        "value": "CUSTOM:Temperance"
+      },
+      {
+        "value": "CUSTOM:TheDevil"
+      },
+      {
+        "value": "CUSTOM:TheTower"
+      },
+      {
+        "value": "CUSTOM:TheStar"
+      },
+      {
+        "value": "CUSTOM:TheMoon"
+      },
+      {
+        "value": "CUSTOM:TheSun"
+      },
+      {
+        "value": "CUSTOM:Judgement"
+      },
+      {
+        "value": "CUSTOM:TheWorld"
+      },
+      {
+        "value": "CUSTOM:AceOfCups"
+      },
+      {
+        "value": "CUSTOM:TwoOfCups"
+      },
+      {
+        "value": "CUSTOM:ThreeOfCups"
+      },
+      {
+        "value": "CUSTOM:FourOfCups"
+      },
+      {
+        "value": "CUSTOM:FiveOfCups"
+      },
+      {
+        "value": "CUSTOM:SixOfCups"
+      },
+      {
+        "value": "CUSTOM:SevenOfCups"
+      },
+      {
+        "value": "CUSTOM:EightOfCups"
+      },
+      {
+        "value": "CUSTOM:NineOfCups"
+      },
+      {
+        "value": "CUSTOM:TenOfCups"
+      },
+      {
+        "value": "CUSTOM:PageOfCups"
+      },
+      {
+        "value": "CUSTOM:KnightOfCups"
+      },
+      {
+        "value": "CUSTOM:QueenOfCups"
+      },
+      {
+        "value": "CUSTOM:KingOfCups"
+      },
+      {
+        "value": "CUSTOM:AceOfPentacles"
+      },
+      {
+        "value": "CUSTOM:TwoOfPentacles"
+      },
+      {
+        "value": "CUSTOM:ThreeOfPentacles"
+      },
+      {
+        "value": "CUSTOM:FourOfPentacles"
+      },
+      {
+        "value": "CUSTOM:FiveOfPentacles"
+      },
+      {
+        "value": "CUSTOM:SixOfPentacles"
+      },
+      {
+        "value": "CUSTOM:SevenOfPentacles"
+      },
+      {
+        "value": "CUSTOM:EightOfPentacles"
+      },
+      {
+        "value": "CUSTOM:NineOfPentacles"
+      },
+      {
+        "value": "CUSTOM:TenOfPentacles"
+      },
+      {
+        "value": "CUSTOM:PageOfPentacles"
+      },
+      {
+        "value": "CUSTOM:KnightOfPentacles"
+      },
+      {
+        "value": "CUSTOM:QueenOfPentacles"
+      },
+      {
+        "value": "CUSTOM:KingOfPentacles"
+      },
+      {
+        "value": "CUSTOM:AceOfSwords"
+      },
+      {
+        "value": "CUSTOM:TwoOfSwords"
+      },
+      {
+        "value": "CUSTOM:ThreeOfSwords"
+      },
+      {
+        "value": "CUSTOM:FourOfSwords"
+      },
+      {
+        "value": "CUSTOM:FiveOfSwords"
+      },
+      {
+        "value": "CUSTOM:SixOfSwords"
+      },
+      {
+        "value": "CUSTOM:SevenOfSwords"
+      },
+      {
+        "value": "CUSTOM:EightOfSwords"
+      },
+      {
+        "value": "CUSTOM:NineOfSwords"
+      },
+      {
+        "value": "CUSTOM:TenOfSwords"
+      },
+      {
+        "value": "CUSTOM:PageOfSwords"
+      },
+      {
+        "value": "CUSTOM:KnightOfSwords"
+      },
+      {
+        "value": "CUSTOM:QueenOfSwords"
+      },
+      {
+        "value": "CUSTOM:KingOfSwords"
+      },
+      {
+        "value": "CUSTOM:AceOfWands"
+      },
+      {
+        "value": "CUSTOM:TwoOfWands"
+      },
+      {
+        "value": "CUSTOM:ThreeOfWands"
+      },
+      {
+        "value": "CUSTOM:FourOfWands"
+      },
+      {
+        "value": "CUSTOM:FiveOfWands"
+      },
+      {
+        "value": "CUSTOM:SixOfWands"
+      },
+      {
+        "value": "CUSTOM:SevenOfWands"
+      },
+      {
+        "value": "CUSTOM:EightOfWands"
+      },
+      {
+        "value": "CUSTOM:NineOfWands"
+      },
+      {
+        "value": "CUSTOM:TenOfWands"
+      },
+      {
+        "value": "CUSTOM:PageOfWands"
+      },
+      {
+        "value": "CUSTOM:KnightOfWands"
+      },
+      {
+        "value": "CUSTOM:QueenOfWands"
+      },
+      {
+        "value": "CUSTOM:KingOfWands"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "tarot_cards",
+    "namespace": "mod"
+  }
+}

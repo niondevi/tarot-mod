@@ -1,0 +1,30 @@
+{
+  "category":"cups",
+  "read_by_default": true,
+  "sortnum": 76,
+  "name":"Six of Cups",
+  "icon":"tarot:six_of_cups",
+  "extra_recipe_mappings": [["tarot:six_of_cups",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_cup6.png"],
+      "title": "℧ Six of Cups ℧",
+      "border": false,
+      "text": "      Spirit of Pleasure$(br)      ☉ Sun in ♏ Scorpio"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  In an old garden behind a manor, a child offers a cup to their friend, while another cup is behind them.$(br)  Four cups filled with flowers adorn the foreground, standing in a neat arrangement; they bring back a sense of peace and order to the suit.$(br)  A card of nostalgia and of memories, looking back, as - for example - on childhood.$(br)  Memories are blurred by watery emotion, and sentimentality, leaving them with a quality of quiet"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "dreaminess that can lead to docility.$(br)  Some elements of this card remind us of the past cards in the suit, reinterpreted and juxtaposed together. $(br2)$(l)Divinatory meanings$()$(br)  Memories. Especially of childhood.$(br)  Nostalgia, sometimes sentimentality.$(br2)$(l)Reversed$()$(br)  Looking ahead instead of backwards. Renewal."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  An honest appraisal of the past, particularly childhood.$(br)  Stripping away of illusions."
+    }
+  ]
+}

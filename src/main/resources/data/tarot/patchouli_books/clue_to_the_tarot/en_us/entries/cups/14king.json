@@ -1,0 +1,30 @@
+{
+  "category":"cups",
+  "read_by_default": true,
+  "sortnum": 84,
+  "name":"King of Cups",
+  "icon":"tarot:king_of_cups",
+  "extra_recipe_mappings": [["tarot:king_of_cups",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_cupking.png"],
+      "title": "℧ King of Cups ℧",
+      "border": false,
+      "text": " King of the Chariot of Waters$(br)       $(m)∆$() Air of ∇ Water"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The King of Cups sits on a large stone throne set upon the sea.$(br)  In his right hand he holds a cup, and his left has a scepter showing power and control.$(br)  He doesn't look at his cup and seems to be focused elsewhere; as if his awareness has moved down into the unconscious.$(br)  Calm and balanced, even in turbulent conditions, he has learned how to sail his emotions and unconscious"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "impulses, without getting lost in them.$(br)  The King of Cups is a master of emotions and of the inner life. Often this mastery can mean that he suppresses, or submerges, some feelings, lest he falls in the waves.$(br)  Another interpretation would see him as a true dweller within the imagination, not distracted by outer events; concerned more with his own contemplations than any need to share with others."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Law, art and science; creative intelligence.$(br)  May symbolize a dreamer, someone with a deep inner life; they are very calm, but this may conceal more difficult emotions.$(br2)$(l)Reversed$()$(br)  Dishonesty, injustice, vice, loss.$(br)  Something disturbs a person's outer tranquility.$(br)  Can mean someone becoming very emotional."
+    }
+  ]
+}

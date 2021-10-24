@@ -1,0 +1,30 @@
+{
+  "category":"pentacles",
+  "read_by_default": true,
+  "sortnum": 122,
+  "name":"Knight of Pentacles",
+  "icon":"tarot:knight_of_pentacles",
+  "extra_recipe_mappings": [["tarot:knight_of_pentacles",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_penknight.png"],
+      "title": "⍟ Knight of Pentacles ⍟",
+      "border": false,
+      "text": " Heir of the Wild and Fertility$(br)      ∆ Fire of $(m)∇$() Earth"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A knight rides a slow, enduring, heavy horse, to which their own aspect corresponds.$(br)  They exhibit their pentacle, but do not look therein.$(br)  In the background, there is a broad field that has been laboriously ploughed row by row, now barren but ready to be sown after long repetitive work.$(br)  Traditionally the Knight of Pentacles is sometimes thought of as slow and plodding, hardworking and committed to"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "their humble mission.$(br)  This dedication is often in conflict with the harsh, unyielding realities of life, such as disease, poverty, loss, or simply nature itself.$(br)  Even though they know that they may not endure, they will not surrender.$(br2)$(l)Divinatory meanings$()$(br)  Utility, interest, responsibility.$(br)  Total dedication to a cause, even when the cause is impossible or lost."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Can signify someone fighting on against enemies or a sequence of bad luck.$(br2)$(l)Reversed$()$(br)  Placidity, discouragement, carelessness.$(br)  Compromise. The ability to look at situations more realistically."
+    }
+  ]
+}

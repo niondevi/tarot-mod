@@ -1,0 +1,30 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 30,
+  "name":"10 - Wheel of Fortune",
+  "icon":"tarot:wheel_of_fortune",
+  "extra_recipe_mappings": [["tarot:wheel_of_fortune",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_10wheel_1.png"],
+      "title": "10 ▪Wheel of Fortune▪ כ",
+      "border": false,
+      "text": "  Ruler of the Forces of Life"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The symbolic picture stands for the perpetual motion of a fluidic universe and for the flux of human life.$(br)  Though the wheel turns, its center is fixed representing the equilibrium therein.$(br)  Burning in red around the wheel, the letters T-A-R-O (spelling TAROT or ROTA, meaning 'wheel' or 'way'), counterchanged with the letters of the unpronounceable name - הוהי -  representative of the Four Elements of Creation, weaved through all."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The same intention is reflected by the four figures, one for each Element, each with a book on top of clouds.$(br)  The person stands for Air, the eagle for Water, the Ox for Earth, and the Lion for Fire.$(br)  The scene reminds us of the mythic wheel of the Goddess of Luck that turns and ultimately points to an unexpected position everytime; a graceful illustration of the interchange between destiny and chance."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Change of circumstances.$(br)  Events taking place of their own accord, without conscious control.$(br2)$(l)Reversed$()$(br)  Taking hold of your destiny.$(br)  Discovering the causes behind events."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 29,
+  "name":"9 - The Hermit",
+  "icon":"tarot:the_hermit",
+  "extra_recipe_mappings": [["tarot:the_hermit",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_9hermit.png"],
+      "title": "9 ▪ The Hermit ▪ י",
+      "border": false,
+      "text": "  Magus of the Voice of Light"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A hooded elderly figure stands in the dark holding a lantern, reminiscent of the Ancient of Days, or perhaps, the Light of the World.$(br)  It is a star which shines in their lantern.$(br)  This is a card of attainment, and to extend this conception the figure is seen holding up his beacon on an eminence.$(br)  Therefore the Hermit is not, a wise man in search of truth and justice; nor is he a special example of experience. He signifies what is to come."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  His beacon intimates that 'where I am, you also may be.' It is further a card which is understood quite incorrectly when it is connected with the idea of occult isolation, as the protection of personal magnetism against admixture.$(br)  Some of us have heard a great deal of the Silent and Unknown Philosophy cloaked by his mantle from the knowledge of the profane. These accounts do not refer to an intended concealment of the Mysteries, but the way in which the"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Mysteries secure their own protection from those who are unprepared to understand them.$(br2)$(l)Divinatory meanings$()$(br)  Withdrawal, acting alone, seeking wisdom.$(br)  Difficulty in connecting with the world or others.$(br2)$(l)Reversed$()$(br)  Invitation, guidance.$(br)  Becoming more involved with others, more active in the world."
+    }
+  ]
+}

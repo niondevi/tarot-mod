@@ -1,0 +1,26 @@
+{
+  "category":"wands",
+  "read_by_default": true,
+  "sortnum": 51,
+  "name":"Ace of Wands",
+  "icon":"tarot:ace_of_wands",
+  "extra_recipe_mappings": [["tarot:ace_of_wands",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_wandace.png"],
+      "title": "⎧ Ace of Wands ⎧",
+      "border": false,
+      "text": "  Root of the Powers of Fire$(br)      Natural Raw Force"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A hand issuing from a cloud grasps a stout wand or club.$(br)  The Aces all represent the primary, or root energy of their suit the source, or beginning, from which all the other cards grow and develop.$(br)  The Wands' element of Fire is also about beginnings. Fire energy initiates, or sparks, creative activity.$(br)  Thus, the Ace of Wands carries a special quality for the start of things - projects and ideas, action and movement, even emotions, especially"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "love.$(br)  This card signifies the first impulse of creativity.$(br2)$(l)Divinatory meanings$()$(br)  Beginnings, new activity, creative impulse.$(br)  A time of action, of great energy.$(br2)$(l)Reversed$()$(br)  The energy can become chaotic, difficult to hold onto. Still very forceful but needs more focus."
+    }
+  ]
+}

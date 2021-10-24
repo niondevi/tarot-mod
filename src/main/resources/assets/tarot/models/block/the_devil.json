@@ -1,0 +1,9 @@
+{
+  "parent": "tarot:custom/tarotcard",
+  "textures": {
+    "all": "tarot:blocks/15devil",
+    "particle": "tarot:blocks/15devil",
+    "0": "tarot:blocks/15devil",
+    "1": "tarot:blocks/back6"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "category":"cups",
+  "read_by_default": true,
+  "sortnum": 82,
+  "name":"Knight of Cups",
+  "icon":"tarot:knight_of_cups",
+  "extra_recipe_mappings": [["tarot:knight_of_cups",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_cupknight.png"],
+      "title": "℧ Knight of Cups ℧",
+      "border": false,
+      "text": " Heir of the Waves and Waters$(br)      ∆ Fire of ∇ Water"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Graceful, and peaceful; the Knight of Cups rides a white horse quietly, holding out a golden chalice as if in salutation.$(br)  They wear a winged helmet, a sign of their soaring imagination; and winged boots, the ability to tread lightly.$(br)  A river flows through the terrain, symbolizing the power of emotions and inspiration to carve a set path in life over time.$(br)  A knight is often a heroic warrior that fights and"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "resists, yet here they embrace the basic nature of elemental Water, that is, to yield and transform.$(br)  They are a dreamer, but the images of the side of sense haunt their sight. They feel a contradiction between their own vision and the demands of their place in the world.$(br)  Grace is called on to deal with the demands of the world without spilling our cupful."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Sensibility, approach.$(br)  Can mean a dreamer, whose dreams conflict with the pressures and responsibilities of everyday life; or an inconsistent person that may find it hard to fully be in commitment.$(br2)$(l)Reversed$()$(br)  Subtlety, duplicity.$(br)  May mean a person whose distracted, introverted side intensifies; they may resent demands people make on them."
+    }
+  ]
+}

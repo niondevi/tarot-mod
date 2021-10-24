@@ -1,0 +1,31 @@
+{
+  "category":"swords",
+  "read_by_default": true,
+  "sortnum": 92,
+  "name":"Two of Swords",
+  "icon":"tarot:two_of_swords",
+  "extra_recipe_mappings": [["tarot:two_of_swords",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_sword2.png"],
+      "title": "⤝ Two of Swords ⤝",
+      "border": false,
+      "text": "   Spirit of Peace Restored$(br)      ☽ Moon in ♎ Libra"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A blindfolded figure balances two swords upon their hands seemingly with their own mental power.$(br)  They seem vigilant as if to defend against all comers, without distinguishing between them.$(br)  At their back, the sea is calm, and the night is clear.$(br)  The number two suggests dualities, or opposites, possibly extreme differences.$(br)  The blindfold suggests incomplete, unseen, or unresolved, issues in a"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "person's life.$(br)  They are poised as if waiting for their final struggle but cannot see they are in fact safe. $(br2)$(l)Divinatory meanings$()$(br)  Looking at the true nature of something.$(br)  Unblinking in the face of danger, courage.$(br)  Dualities, sharp differences between perspectives."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Reversed$()$(br)  Looking away from something. Falsehood, duplicity.$(br)  May also mean resolving difficult issues."
+    }
+
+  ]
+}

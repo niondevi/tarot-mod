@@ -1,0 +1,26 @@
+{
+  "category":"wands",
+  "read_by_default": true,
+  "sortnum": 52,
+  "name":"Two of Wands",
+  "icon":"tarot:two_of_wands",
+  "extra_recipe_mappings": [["tarot:two_of_wands",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_wand2.png"],
+      "title": "⎧ Two of Wands ⎧",
+      "border": false,
+      "text": "      Spirit of Dominion$(br)      ♂ Mars in ♈ Aries"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A tall figure looks from a battlemented roof over sea and shore.$(br)  They contemplate a globe in their right hand, while a staff in their left rests on the wall; another staff is fixed in a ring to the roof.$(br)  Standing atop their already established domain, they look forward to affix their staff to their next conquest.$(br2)$(l)Divinatory meanings$()$(br)  Control, dominion, power, focused will. The ability to act"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "in the world.$(br2)$(l)Reversed$()$(br)  Openness to change, to giving up power."
+    }
+  ]
+}

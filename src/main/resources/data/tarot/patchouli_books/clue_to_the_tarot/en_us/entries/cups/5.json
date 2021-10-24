@@ -1,0 +1,30 @@
+{
+  "category":"cups",
+  "read_by_default": true,
+  "sortnum": 75,
+  "name":"Five of Cups",
+  "icon":"tarot:five_of_cups",
+  "extra_recipe_mappings": [["tarot:five_of_cups",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_cup5.png"],
+      "title": "℧ Five of Cups ℧",
+      "border": false,
+      "text": "  Spirit of Loss in Pleasure$(br)     ♂ Mars in ♏ Scorpio"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A dark, cloaked figure, looking sideways at three prone cups, and what looks like red liquid all around them; two other cups stand upright behind him.$(br)  A bridge is in the background, leading to a small keep or holding.$(br)  Red suggests blood, and when we see it spilled, it recalls a traditional symbol of lost innocence.$(br)  We also might think of the red as wine, in which case we have lost the abundance and"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "luxury of previous ventures.$(br)  It is a card of exchange not corresponding to expectations; after the sorrow of losing grandeur or abundance, we may return to a sense of what really matters to us.$(br)  The two standing cups also may signify what is really important, in other words, what is not lost so easily.$(br)  The addition of the second unspilled cup could symbolize something new and positive that has come into our lives during a time of sorrow."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Loss, sorrow, deep emotion.$(br2)$(l)Reversed$()$(br)  Understanding, fresh hope, an appreciation for what remains or returns, or else something new and hopeful."
+    }
+  ]
+}

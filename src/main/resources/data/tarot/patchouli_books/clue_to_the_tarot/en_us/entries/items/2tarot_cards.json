@@ -1,0 +1,31 @@
+{
+  "category":"items",
+  "read_by_default": true,
+  "sortnum": 12,
+  "name":"Tarot Cards",
+  "icon":"tarot:flipped_card",
+
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "  In total, there are 78 Tarot cards, each being an item you can place in your world, inventory, or safely store inside your $(l:patchouli:items/1tarot_deck)Tarot Deck$().$(br)  When placed they can be flipped or rotated.$(br)  By using a $(l:patchouli:items/1tarot_deck)Tarot Deck$() it is easy to shuffle and deal cards for readings.$(br)  Sometimes, single Tarot cards are dropped by Witches."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "tarot:the_fool,tarot:the_magician,tarot:the_high_priestess,tarot:the_empress,tarot:the_emperor,tarot:the_hierophant,tarot:the_lovers,tarot:the_chariot,tarot:strength,tarot:the_hermit,tarot:wheel_of_fortune,tarot:justice,tarot:the_hanged_man,tarot:death,tarot:temperance,tarot:the_devil,tarot:the_tower,tarot:the_star,tarot:the_moon,tarot:the_sun,tarot:judgement,tarot:the_world,tarot:ace_of_cups,tarot:two_of_cups,tarot:three_of_cups,tarot:four_of_cups,tarot:five_of_cups,tarot:six_of_cups,tarot:seven_of_cups,tarot:eight_of_cups,tarot:nine_of_cups,tarot:ten_of_cups,tarot:page_of_cups,tarot:knight_of_cups,tarot:queen_of_cups,tarot:king_of_cups,tarot:ace_of_pentacles,tarot:two_of_pentacles,tarot:three_of_pentacles,tarot:four_of_pentacles,tarot:five_of_pentacles,tarot:six_of_pentacles,tarot:seven_of_pentacles,tarot:eight_of_pentacles,tarot:nine_of_pentacles,tarot:ten_of_pentacles,tarot:page_of_pentacles,tarot:knight_of_pentacles,tarot:queen_of_pentacles,tarot:king_of_pentacles,tarot:ace_of_swords,tarot:two_of_swords,tarot:three_of_swords,tarot:four_of_swords,tarot:five_of_swords,tarot:six_of_swords,tarot:seven_of_swords,tarot:eight_of_swords,tarot:nine_of_swords,tarot:ten_of_swords,tarot:page_of_swords,tarot:knight_of_swords,tarot:queen_of_swords,tarot:king_of_swords,tarot:ace_of_wands,tarot:two_of_wands,tarot:three_of_wands,tarot:four_of_wands,tarot:five_of_wands,tarot:six_of_wands,tarot:seven_of_wands,tarot:eight_of_wands,tarot:nine_of_wands,tarot:ten_of_wands,tarot:page_of_wands,tarot:knight_of_wands,tarot:queen_of_wands,tarot:king_of_wands",
+      "title":"Using Tarot Cards",
+      "link_recipe": false,
+      "text": "$(br)$(l)Pick card in off-hand:$()$(br) With $(l:patchouli:items/1tarot_deck)Tarot Deck$() in main hand$(br) and a clear off-hand$(br) use $(k:use) in the air$(br2)$(l)Shuffle card from off-hand:$()$(br) With $(l:patchouli:items/1tarot_deck)Tarot Deck$() in main hand$(br) and a card in off-hand$(br) use $(k:use) in the air"
+    },
+    {
+      "title":"Placing with Tarot Deck",
+      "type": "patchouli:text",
+      "text": "$(br)$(l)Place card from Deck:$()$(br) With $(l:patchouli:items/1tarot_deck)Tarot Deck$() in main hand$(br) use $(k:use) $(br) (sneak for flipped card)$(br2)$(br2)$(l)Shuffle card back in deck:$()$(br) With $(l:patchouli:items/1tarot_deck)Tarot Deck$() in main hand$(br) break the card with$(br) $(k:attack)"
+    },
+    {
+      "title":"Placed Tarot Cards",
+      "type": "patchouli:text",
+      "text": "$(br)$(l)Flip placed card:$()$(br) Use $(k:attack) quickly on the card$(br2)$(l)Rotate placed card:$()$(br) Use $(k:use) on the card"
+    }
+  ]
+}

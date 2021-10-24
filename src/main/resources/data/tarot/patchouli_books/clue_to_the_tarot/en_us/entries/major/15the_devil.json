@@ -1,0 +1,30 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 35,
+  "name":"15 - The Devil",
+  "icon":"tarot:the_devil",
+  "extra_recipe_mappings": [["tarot:the_devil",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_15devil.png"],
+      "title": "15 ▪ The Devil ▪ ע",
+      "border": false,
+      "text": "  Child of the Forces of Time"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The Horned Goat, with wings like those of a bat, is standing on an altar.$(br)  Its right hand is upraised and extended, being the reverse of that benediction which is given by $(l:patchouli:major/5the_hierophant)The Hierophant$().$(br)  In the left hand there is a great flaming torch, inverted towards the earth.$(br)  There is a ring in front of the altar, from which two chains are carried to the necks of two figures, male and female. These are analogous"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "to the card of $(l:patchouli:major/6the_lovers)The Lovers$(), as if they had fallen under different circumstances.$(br)  Hereof is the chain and fatality of the material life.$(br)  The man and woman are tailed, to signify the animal nature, but there is human intelligence in their gait.$(br)  The exalted beast above them is not to be their master for ever. Even as their master, it is also a slave to the evil desire for oppresion.$(br)  When realization strikes, the three will be free at once."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The beast is in fact the dweller on the threshold outside the Mystical Garden, guarding it from those that have eaten of the fruits therein.$(br2)$(l)Divinatory meanings$()$(br)  Struggles with oppression.$(br)  Illusions. Dark feelings or desires, especially passionate ones.$(br2)$(l)Reversed$()$(br)  Liberation, redemption.$(br)  Bringing things to light."
+    }
+  ]
+}

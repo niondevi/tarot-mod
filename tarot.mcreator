@@ -1,0 +1,1615 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "TheFool",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_fool",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "FlippedCard",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flipped_card",
+      "path": "~/Items"
+    },
+    {
+      "name": "FlipFlippedCard",
+      "type": "procedure",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flip_flipped_card",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures/Card"
+    },
+    {
+      "name": "FlipTarotCard",
+      "type": "procedure",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flip_tarot_card",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures/Card"
+    },
+    {
+      "name": "RotateCard",
+      "type": "procedure",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotate_card",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures/Card"
+    },
+    {
+      "name": "PlaceCardFromDeck",
+      "type": "procedure",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "place_card_from_deck",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "direction",
+            "type": "direction"
+          },
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures/Deck"
+    },
+    {
+      "name": "TarotDeck",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "tarot_deck",
+      "path": "~/Items"
+    },
+    {
+      "name": "TheMagician",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_magician",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "TarotDeckBlockDestroyedWithTool",
+      "type": "procedure",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tarot_deck_block_destroyed_with_tool",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/Procedures/Deck"
+    },
+    {
+      "name": "TheHighPriestess",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_high_priestess",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "TarotCards",
+      "type": "tag",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tarot_cards",
+      "path": "~/Tags"
+    },
+    {
+      "name": "TheEmpress",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_empress",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "EnderTarotCard",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_tarot_card",
+      "path": "~/Items"
+    },
+    {
+      "name": "FlipEnderCard",
+      "type": "procedure",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flip_ender_card",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures/Card"
+    },
+    {
+      "name": "CardBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "card_block_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures/Card"
+    },
+    {
+      "name": "EnderCardParticleSpawningCondition",
+      "type": "procedure",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_card_particle_spawning_condition",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures/Card"
+    },
+    {
+      "name": "GetRandomCard",
+      "type": "procedure",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "get_random_card",
+      "metadata": {
+        "return_type": "itemstack",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures/Card"
+    },
+    {
+      "name": "AddBlockToDeck",
+      "type": "procedure",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "add_block_to_deck",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures/Deck"
+    },
+    {
+      "name": "TheEmperor",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_emperor",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "TheHierophant",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_hierophant",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "TheLovers",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_lovers",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "TheChariot",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_chariot",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "Strength",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strength",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "TheHermit",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_hermit",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "WheelOfFortune",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wheel_of_fortune",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "Justice",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "justice",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "TheHangedMan",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_hanged_man",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "Death",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "death",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "Temperance",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temperance",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "TheDevil",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_devil",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "TheTower",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_tower",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "TheStar",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_star",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "TheSun",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_sun",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "Judgement",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "judgement",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "TheWorld",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_world",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "AceOfCups",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ace_of_cups",
+      "path": "~/Items/Cups"
+    },
+    {
+      "name": "TwoOfCups",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "two_of_cups",
+      "path": "~/Items/Cups"
+    },
+    {
+      "name": "ThreeOfCups",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "three_of_cups",
+      "path": "~/Items/Cups"
+    },
+    {
+      "name": "FourOfCups",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "four_of_cups",
+      "path": "~/Items/Cups"
+    },
+    {
+      "name": "FiveOfCups",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "five_of_cups",
+      "path": "~/Items/Cups"
+    },
+    {
+      "name": "SixOfCups",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "six_of_cups",
+      "path": "~/Items/Cups"
+    },
+    {
+      "name": "SevenOfCups",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seven_of_cups",
+      "path": "~/Items/Cups"
+    },
+    {
+      "name": "EightOfCups",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eight_of_cups",
+      "path": "~/Items/Cups"
+    },
+    {
+      "name": "NineOfCups",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nine_of_cups",
+      "path": "~/Items/Cups"
+    },
+    {
+      "name": "TenOfCups",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ten_of_cups",
+      "path": "~/Items/Cups"
+    },
+    {
+      "name": "PageOfCups",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "page_of_cups",
+      "path": "~/Items/Cups"
+    },
+    {
+      "name": "KnightOfCups",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "knight_of_cups",
+      "path": "~/Items/Cups"
+    },
+    {
+      "name": "QueenOfCups",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "queen_of_cups",
+      "path": "~/Items/Cups"
+    },
+    {
+      "name": "KingOfCups",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "king_of_cups",
+      "path": "~/Items/Cups"
+    },
+    {
+      "name": "TwoOfPentacles",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "two_of_pentacles",
+      "path": "~/Items/Pentacles"
+    },
+    {
+      "name": "ThreeOfPentacles",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "three_of_pentacles",
+      "path": "~/Items/Pentacles"
+    },
+    {
+      "name": "FourOfPentacles",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "four_of_pentacles",
+      "path": "~/Items/Pentacles"
+    },
+    {
+      "name": "FiveOfPentacles",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "five_of_pentacles",
+      "path": "~/Items/Pentacles"
+    },
+    {
+      "name": "SixOfPentacles",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "six_of_pentacles",
+      "path": "~/Items/Pentacles"
+    },
+    {
+      "name": "SevenOfPentacles",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seven_of_pentacles",
+      "path": "~/Items/Pentacles"
+    },
+    {
+      "name": "EightOfPentacles",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eight_of_pentacles",
+      "path": "~/Items/Pentacles"
+    },
+    {
+      "name": "NineOfPentacles",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nine_of_pentacles",
+      "path": "~/Items/Pentacles"
+    },
+    {
+      "name": "TenOfPentacles",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ten_of_pentacles",
+      "path": "~/Items/Pentacles"
+    },
+    {
+      "name": "PageOfPentacles",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "page_of_pentacles",
+      "path": "~/Items/Pentacles"
+    },
+    {
+      "name": "KnightOfPentacles",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "knight_of_pentacles",
+      "path": "~/Items/Pentacles"
+    },
+    {
+      "name": "QueenOfPentacles",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "queen_of_pentacles",
+      "path": "~/Items/Pentacles"
+    },
+    {
+      "name": "KingOfPentacles",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "king_of_pentacles",
+      "path": "~/Items/Pentacles"
+    },
+    {
+      "name": "AceOfSwords",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ace_of_swords",
+      "path": "~/Items/Swords"
+    },
+    {
+      "name": "TwoOfSwords",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "two_of_swords",
+      "path": "~/Items/Swords"
+    },
+    {
+      "name": "ThreeOfSwords",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "three_of_swords",
+      "path": "~/Items/Swords"
+    },
+    {
+      "name": "FourOfSwords",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "four_of_swords",
+      "path": "~/Items/Swords"
+    },
+    {
+      "name": "FiveOfSwords",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "five_of_swords",
+      "path": "~/Items/Swords"
+    },
+    {
+      "name": "SixOfSwords",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "six_of_swords",
+      "path": "~/Items/Swords"
+    },
+    {
+      "name": "SevenOfSwords",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seven_of_swords",
+      "path": "~/Items/Swords"
+    },
+    {
+      "name": "EightOfSwords",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eight_of_swords",
+      "path": "~/Items/Swords"
+    },
+    {
+      "name": "NineOfSwords",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nine_of_swords",
+      "path": "~/Items/Swords"
+    },
+    {
+      "name": "TenOfSwords",
+      "type": "block",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ten_of_swords",
+      "path": "~/Items/Swords"
+    },
+    {
+      "name": "PageOfSwords",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "page_of_swords",
+      "path": "~/Items/Swords"
+    },
+    {
+      "name": "KnightOfSwords",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "knight_of_swords",
+      "path": "~/Items/Swords"
+    },
+    {
+      "name": "QueenOfSwords",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "queen_of_swords",
+      "path": "~/Items/Swords"
+    },
+    {
+      "name": "KingOfSwords",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "king_of_swords",
+      "path": "~/Items/Swords"
+    },
+    {
+      "name": "AceOfWands",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ace_of_wands",
+      "path": "~/Items/Wands"
+    },
+    {
+      "name": "TwoOfWands",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "two_of_wands",
+      "path": "~/Items/Wands"
+    },
+    {
+      "name": "ThreeOfWands",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "three_of_wands",
+      "path": "~/Items/Wands"
+    },
+    {
+      "name": "FourOfWands",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "four_of_wands",
+      "path": "~/Items/Wands"
+    },
+    {
+      "name": "FiveOfWands",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "five_of_wands",
+      "path": "~/Items/Wands"
+    },
+    {
+      "name": "SixOfWands",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "six_of_wands",
+      "path": "~/Items/Wands"
+    },
+    {
+      "name": "SevenOfWands",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seven_of_wands",
+      "path": "~/Items/Wands"
+    },
+    {
+      "name": "EightOfWands",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eight_of_wands",
+      "path": "~/Items/Wands"
+    },
+    {
+      "name": "NineOfWands",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nine_of_wands",
+      "path": "~/Items/Wands"
+    },
+    {
+      "name": "TenOfWands",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ten_of_wands",
+      "path": "~/Items/Wands"
+    },
+    {
+      "name": "PageOfWands",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "page_of_wands",
+      "path": "~/Items/Wands"
+    },
+    {
+      "name": "KnightOfWands",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "knight_of_wands",
+      "path": "~/Items/Wands"
+    },
+    {
+      "name": "QueenOfWands",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "queen_of_wands",
+      "path": "~/Items/Wands"
+    },
+    {
+      "name": "KingOfWands",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "king_of_wands",
+      "path": "~/Items/Wands"
+    },
+    {
+      "name": "RegenerateTarotDeck",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "regenerate_tarot_deck",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AddDeckToTrader",
+      "type": "procedure",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "add_deck_to_trader",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures/Entities"
+    },
+    {
+      "name": "WitchesDropCard",
+      "type": "procedure",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "witches_drop_card",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures/Entities"
+    },
+    {
+      "name": "EnderTarotCardFromCard",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_tarot_card_from_card",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "TarotCardItems",
+      "type": "tag",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "tarot_card_items",
+      "path": "~/Tags"
+    },
+    {
+      "name": "InitPlayer",
+      "type": "procedure",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "init_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "ReinitPlayerWhenRespawn",
+      "type": "procedure",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinit_player_when_respawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "LoadConfigs",
+      "type": "procedure",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "load_configs",
+      "metadata": {
+        "dependencies": []
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "AceOfPentacles",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ace_of_pentacles",
+      "path": "~/Items/Pentacles"
+    },
+    {
+      "name": "TheMoon",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_moon",
+      "path": "~/Items/Major"
+    },
+    {
+      "name": "TarotDeckRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tarot_deck_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Tarot",
+      "type": "tab",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tarot"
+    },
+    {
+      "name": "TarotDeckRightClickedInAir",
+      "type": "procedure",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tarot_deck_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedures/Deck"
+    },
+    {
+      "name": "ClueToTheTarotReward",
+      "type": "loottable",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "clue_to_the_tarot_reward"
+    },
+    {
+      "name": "ClueToTheTarot",
+      "type": "achievement",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clue_to_the_tarot"
+    },
+    {
+      "name": "TarotAdvancementCheck",
+      "type": "procedure",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tarot_advancement_check",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "broken_card",
+      "type": "itemstack",
+      "scope": "player_lifetime",
+      "value": ""
+    },
+    {
+      "name": "broken_card_was_ender",
+      "type": "logic",
+      "scope": "player_lifetime",
+      "value": "false"
+    },
+    {
+      "name": "blockIsBrokenCard",
+      "type": "logic",
+      "scope": "player_lifetime",
+      "value": "false"
+    },
+    {
+      "name": "WITCH_CARD_DROP",
+      "type": "number",
+      "scope": "global",
+      "value": "0"
+    },
+    {
+      "name": "WITCH_ENDER_CHANCE",
+      "type": "number",
+      "scope": "global",
+      "value": "0"
+    },
+    {
+      "name": "WANDERING_SELL_DECK_CHANCE",
+      "type": "number",
+      "scope": "global",
+      "value": "0"
+    },
+    {
+      "name": "WANDERING_SELL_DECK_PRICE",
+      "type": "number",
+      "scope": "global",
+      "value": "0"
+    },
+    {
+      "name": "DISABLE_MAJOR_ARCANA",
+      "type": "logic",
+      "scope": "global",
+      "value": "false"
+    },
+    {
+      "name": "DISABLE_MINOR_ARCANA",
+      "type": "logic",
+      "scope": "global",
+      "value": "false"
+    },
+    {
+      "name": "ENABLE_INVERT_DECK",
+      "type": "logic",
+      "scope": "global",
+      "value": "false"
+    },
+    {
+      "name": "ENABLE_INVERT_ENDER",
+      "type": "logic",
+      "scope": "global",
+      "value": "false"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.tarot.five_of_pentacles": "Five of Pentacles",
+      "block.tarot.ten_of_swords": "Ten of Swords",
+      "block.tarot.the_high_priestess": "The High Priestess",
+      "block.tarot.the_star": "The Star",
+      "block.tarot.knight_of_pentacles": "Knight of Pentacles",
+      "block.tarot.two_of_wands": "Two of Wands",
+      "block.tarot.strength": "Strength",
+      "block.tarot.king_of_swords": "King of Swords",
+      "block.tarot.king_of_pentacles": "King of Pentacles",
+      "block.tarot.three_of_cups": "Three of Cups",
+      "block.tarot.three_of_wands": "Three of Wands",
+      "block.tarot.seven_of_wands": "Seven of Wands",
+      "block.tarot.the_lovers": "The Lovers",
+      "block.tarot.nine_of_pentacles": "Nine of Pentacles",
+      "block.tarot.ace_of_swords": "Ace of Swords",
+      "block.tarot.the_world": "The World",
+      "block.tarot.eight_of_pentacles": "Eight of Pentacles",
+      "block.tarot.nine_of_swords": "Nine of Swords",
+      "block.tarot.page_of_cups": "Page of Cups",
+      "block.tarot.justice": "Justice",
+      "block.tarot.the_magician": "The Magician",
+      "block.tarot.eight_of_swords": "Eight of Swords",
+      "block.tarot.two_of_pentacles": "Two of Pentacles",
+      "block.tarot.queen_of_swords": "Queen of Swords",
+      "block.tarot.four_of_swords": "Four of Swords",
+      "block.tarot.the_hanged_man": "The Hanged Man",
+      "block.tarot.four_of_cups": "Four of Cups",
+      "block.tarot.the_tower": "The Tower",
+      "block.tarot.five_of_swords": "Five of Swords",
+      "block.tarot.ace_of_wands": "Ace of Wands",
+      "block.tarot.ace_of_pentacles": "Ace of Pentacles",
+      "block.tarot.the_moon": "The Moon",
+      "advancements.clue_to_the_tarot.title": "A Clue To The Tarot",
+      "block.tarot.page_of_pentacles": "Page of Pentacles",
+      "block.tarot.the_devil": "The Devil",
+      "block.tarot.seven_of_cups": "Seven of Cups",
+      "block.tarot.five_of_cups": "Five of Cups",
+      "block.tarot.king_of_wands": "King of Wands",
+      "block.tarot.judgement": "Judgement",
+      "block.tarot.knight_of_wands": "Knight of Wands",
+      "block.tarot.ten_of_pentacles": "Ten of Pentacles",
+      "block.tarot.queen_of_cups": "Queen of Cups",
+      "block.tarot.six_of_cups": "Six of Cups",
+      "block.tarot.six_of_wands": "Six of Wands",
+      "block.tarot.queen_of_pentacles": "Queen of Pentacles",
+      "block.tarot.the_hierophant": "The Hierophant",
+      "block.tarot.the_hermit": "The Hermit",
+      "block.tarot.ace_of_cups": "Ace of Cups",
+      "block.tarot.death": "Death",
+      "block.tarot.two_of_cups": "Two of Cups",
+      "block.tarot.six_of_swords": "Six of Swords",
+      "block.tarot.four_of_pentacles": "Four of Pentacles",
+      "block.tarot.the_chariot": "The Chariot",
+      "block.tarot.seven_of_swords": "Seven of Swords",
+      "block.tarot.the_emperor": "The Emperor",
+      "block.tarot.king_of_cups": "King of Cups",
+      "block.tarot.three_of_swords": "Three of Swords",
+      "advancements.clue_to_the_tarot.descr": "Get started with the Tarot",
+      "item.tarot.tarot_deck": "Tarot Deck",
+      "block.tarot.the_fool": "The Fool",
+      "block.tarot.eight_of_cups": "Eight of Cups",
+      "block.tarot.nine_of_cups": "Nine of Cups",
+      "block.tarot.five_of_wands": "Five of Wands",
+      "block.tarot.the_empress": "The Empress",
+      "block.tarot.temperance": "Temperance",
+      "block.tarot.six_of_pentacles": "Six of Pentacles",
+      "block.tarot.four_of_wands": "Four of Wands",
+      "block.tarot.flipped_card": "Unknown Card",
+      "block.tarot.three_of_pentacles": "Three of Pentacles",
+      "block.tarot.knight_of_swords": "Knight of Swords",
+      "block.tarot.wheel_of_fortune": "Wheel Of Fortune",
+      "block.tarot.two_of_swords": "Two of Swords",
+      "block.tarot.ten_of_cups": "Ten of Cups",
+      "block.tarot.ten_of_wands": "Ten of Wands",
+      "block.tarot.seven_of_pentacles": "Seven of Pentacles",
+      "block.tarot.page_of_wands": "Page of Wands",
+      "block.tarot.page_of_swords": "Page of Swords",
+      "block.tarot.eight_of_wands": "Eight of Wands",
+      "block.tarot.knight_of_cups": "Knight of Cups",
+      "block.tarot.nine_of_wands": "Nine of Wands",
+      "block.tarot.the_sun": "The Sun",
+      "itemGroup.tabtarot": "Tarot",
+      "block.tarot.ender_tarot_card": "Ender Tarot Card",
+      "block.tarot.queen_of_wands": "Queen of Wands"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Procedures",
+        "children": [
+          {
+            "name": "Card",
+            "children": []
+          },
+          {
+            "name": "Deck",
+            "children": []
+          },
+          {
+            "name": "Entities",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Tags",
+        "children": []
+      },
+      {
+        "name": "Items",
+        "children": [
+          {
+            "name": "Cups",
+            "children": []
+          },
+          {
+            "name": "Major",
+            "children": []
+          },
+          {
+            "name": "Pentacles",
+            "children": []
+          },
+          {
+            "name": "Swords",
+            "children": []
+          },
+          {
+            "name": "Wands",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Recipes",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "tarot",
+    "modName": "Tarot",
+    "version": "1.0.0",
+    "description": "Play with Tarot cards and find clues to their occult origins",
+    "author": "Nion",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/tarot",
+    "license": "CC BY-NC 4.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "modicon",
+    "requiredMods": [],
+    "dependencies": [
+      "patchouli"
+    ],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Arcade Arcanum Tarot Deck by Rose (mozz). Mod made withMCreator \u0026 Blockbench.",
+    "modElementsPackage": "codes.nion.tarot",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

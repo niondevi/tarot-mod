@@ -1,0 +1,30 @@
+{
+  "category":"pentacles",
+  "read_by_default": true,
+  "sortnum": 116,
+  "name":"Six of Pentacles",
+  "icon":"tarot:six_of_pentacles",
+  "extra_recipe_mappings": [["tarot:six_of_pentacles",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_pen6.png"],
+      "title": "⍟ Six of Pentacles ⍟",
+      "border": false,
+      "text": "   Spirit of Material Success$(br)      ☽ Moon in ♉ Taurus"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A person in the guise of a merchant balances coins in a pair of scales as they distribute them to the needy and distressed.$(br)  Six pentacles frame their exchange from above.$(br)  The theme of this card is assistance, but also inequality.$(br)  Help, or charity help overcome pain, hardship and other physical limitations; but it can also coddle and subdue those who receive it without necessity.$(br)  There may be times when we"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "wonder in whose benefit we give generously to others – even trusting that every contribution we make will meet retribution, for balance is at hand.$(br)  Beware of growing complacent as a result of the charity that someone else provides; instead use it to overcome situations and pay it back, or forward.$(br)  Finally, this card represents financial harmony, a reminder that prosperity flows in and out in equal scale.$(br)  Gratitude and happiness is"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "ours to give and receive.$(br2)$(l)Divinatory meanings$()$(br)  Sharing, gratification, prosperity.$(br)  People helping each other, particularly against physical limitations.$(br2)$(l)Reversed$()$(br)  Doing things alone. People holding back from each other.$(br)  Possibly inequalities between people. Envy, jealousy."
+    }
+  ]
+}

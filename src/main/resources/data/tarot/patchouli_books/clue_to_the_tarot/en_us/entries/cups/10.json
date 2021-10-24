@@ -1,0 +1,30 @@
+{
+  "category":"cups",
+  "read_by_default": true,
+  "sortnum": 80,
+  "name":"Ten of Cups",
+  "icon":"tarot:ten_of_cups",
+  "extra_recipe_mappings": [["tarot:ten_of_cups",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_cup10.png"],
+      "title": "℧ Ten of Cups ℧",
+      "border": false,
+      "text": "  Spirit of Perpetual Success$(br)      ♂ Mars in ♓ Pisces"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A vision of cups in a rainbow, like an arc of a bigger colorful mandala; it is contemplated in wonder and ecstasy by a couple below, evidently in love.$(br)  While embracing each other, one has their left arm raised upward; the other raises their right arm.$(br)  The two children dancing in the background have not observed the miracle but are happy by their own selves.$(br)  There is a cozy cottage in the woods beyond."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The ten cups here are symbols for the multiple possibilities of fantasy and life.$(br)  They appear neatly stacked in two rows, as if one set was the pair of the other.$(br)  The children show that contentment can also simply come from our own selves, rather than any miraculous occurrence."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Happiness, joy, perfection of love and friendship.$(br)  A sense of contentment and inner peace. Repose of the entire heart.$(br2)$(l)Reversed$()$(br)  Indignation.$(br)  The quality of joy remains, but it may be false; there may be a need to search for it or look past momentary frustrations."
+    }
+  ]
+}

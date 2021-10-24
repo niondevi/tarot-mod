@@ -1,0 +1,34 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 32,
+  "name":"12 - The Hanged Man",
+  "icon":"tarot:the_hanged_man",
+  "extra_recipe_mappings": [["tarot:the_hanged_man",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_12hangedman.png"],
+      "title": "12 ▪ The Hanged Man ▪ מ",
+      "border": false,
+      "text": "  Spirit of the Mighty Waters"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A person hanging by one foot to a gallow made from living branches that have been cut off to resemble the letter Tau.$(br)  Their hands are tied behind their back, and the fold of their arms forms the base of a reversed triangle, of which their head forms the point. The right leg crosses the left and so forms a cross.$(br)  Their fair hair floats upon the wind. There is a nimbus about the head of the seeming martyr."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Divine expansion in humanity is produced by the prophets and revelation, and this inspires the idea of the revealed law.$(br)  But the revelation of the law involve punishment, voluntary or involuntary, for those who violate it, or elevation for those who understand it.$(br)  It should be noted that they express deep entrancement, not suffering; the figure, as a whole, suggests life in suspension, and not death.$(br)  It is a card of profound"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "significance, but all the significance is veiled.$(br)  Those who can understand that the story of their higher nature is embedded in this symbolism will receive intimations concerning a great awakening that is possible, and will know that after the sacred Mystery of Death there is a glorious Mystery of Resurrection.$(br)  As a last sign, it is the image of the power derived from elevation."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  A deep attachment to what matters most to a person.$(br)  Reversal of normal values.$(br)  Following your own beliefs.$(br2)$(l)Reversed$()$(br)  Heeding to other people or social pressure rather than your own values."
+    }
+  ]
+}

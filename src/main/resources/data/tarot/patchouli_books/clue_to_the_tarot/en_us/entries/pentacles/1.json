@@ -1,0 +1,34 @@
+{
+  "category":"pentacles",
+  "read_by_default": true,
+  "sortnum": 111,
+  "name":"Ace of Pentacles",
+  "icon":"tarot:ace_of_pentacles",
+  "extra_recipe_mappings": [["tarot:ace_of_pentacles",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_penace.png"],
+      "title": "⍟ Ace of Pentacles ⍟",
+      "border": false,
+      "text": "  Root of the Powers of Earth $(br)    Transmuted Inert Vigor"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A hand issues, as usual, from a cloud. A pentacle in the form of an ornate disk resembling a large coin sits in the cupped palm, freely available to whoever has the means to take it.$(br)  A small path leads to an archway, framing a mountain valley in beautiful foliage.$(br)  The path leading to the mountains evokes the holy mountains of legend, reminding us of the call for questing.$(br)  As we journey in life we celebrate new perspectives,"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "and develop new relationships with the world, reveling in incommunicable experience.$(br)  The Suit of Pentacles is connected to the Elemental Earth, standing for the practical and the everyday, but also nature, physical reality, and the attainments that come with living in it.$(br)  The shape of the pentacle remind us of a coin, an item of ordinary life.$(br)  Coins are often emblazoned with a design indicating where its value is recognized."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  In this case the design is the five pointed star, the symbol of the five elements that compose all life. This special 'coin' is a pentacle, a tool of ceremonial magic, a physical symbol of the whole cosmos.$(br2)$(l)Divinatory meanings$()$(br)  Security, abundance, physical pleasure, wealth.$(br)  Also speedy intelligence, wittiness."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Reversed$()$(br)  Difficulties or arguments around material issues.$(br)  Dissatisfaction with simple security. Sometimes opulence."
+    }
+  ]
+}

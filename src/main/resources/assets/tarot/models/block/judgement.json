@@ -1,0 +1,9 @@
+{
+  "parent": "tarot:custom/tarotcard",
+  "textures": {
+    "all": "tarot:blocks/20judgement",
+    "particle": "tarot:blocks/20judgement",
+    "0": "tarot:blocks/20judgement",
+    "1": "tarot:blocks/back6"
+  }
+}

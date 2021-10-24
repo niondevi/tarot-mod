@@ -1,0 +1,30 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 26,
+  "name":"6 - The Lovers",
+  "icon":"tarot:the_lovers",
+  "extra_recipe_mappings": [["tarot:the_lovers",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_6lovers.png"],
+      "title": "6 ▪ The Lovers ▪ ז",
+      "border": false,
+      "text": " Children of the Voice Divine"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The sun shines in the zenith, and beneath is a great winged figure with arms extended, pouring down blessings.$(br)  In the foreground are two human figures, male and female, unveiled before each other, as if they first occupied the paradise of the earthly body.$(br)  Behind the male is the Tree of Life bearing burning fruit; and the Tree of Knowledge is behind the female.$(br)  The figures suggest youth, virginity, innocence and love"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "before it is tainted by material fancy.$(br)  The woman signifies that attraction towards the sensitive life which carries within it the idea of the loss of innocence; but she is rather the working of a secret law of providence than a conscious temptress.$(br)  It is through her slip that the man shall arise ultimately, and only by her can he complete himself. It is an intimation concerning the great mystery of Womanhood."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  This is in all simplicity the card of human love, here exhibited as part of the way, the truth and the life.$(br2)$(l)Divinatory meanings$()$(br)  Love, passionate desire, an important relationship.$(br)  May also mean the merging of opposites.$(br2)$(l)Reversed$()$(br)  Difficulties in relationships. Opposition between people.$(br)  The need to rebel against loved ones and society."
+    }
+  ]
+}

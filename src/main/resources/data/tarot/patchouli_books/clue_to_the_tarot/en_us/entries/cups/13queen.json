@@ -1,0 +1,34 @@
+{
+  "category":"cups",
+  "read_by_default": true,
+  "sortnum": 83,
+  "name":"Queen of Cups",
+  "icon":"tarot:queen_of_cups",
+  "extra_recipe_mappings": [["tarot:queen_of_cups",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_cupqueen.png"],
+      "title": "℧ Queen of Cups ℧",
+      "border": false,
+      "text": "Queen of the Thrones of Waters$(br)      ∇ Water of ∇ Water"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A beautiful woman sits upon a stone throne decorated as a seashell, as if her crowned head was a pearl, the jewel of the ocean.$(br)  In her hands, she holds the Cup of Dreams adorned with handles shaped like wings. Introspective and dreamy, she sees visions in it.$(br)  Around her the cloudless, bright-blue sky and placid water of the sea.$(br)  The sea is a classical symbol of the unconscious mind, larger than life, but also"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "deeper.$(br)  Though she sits just by the shore, the rolling waves do not touch her feet; it is as if she is connected to the ocean, but not taken by it.$(br)  She seems to live in that world of mystery and our more mundane world at the same time.$(br)  As the Queen of elemental Water, this is the most realized of the Cups cards, and also of all the Queens.$(br)  She is equal to the challenge of Water's constantly"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "shifting reality.$(br)  She is a Queen of mystery and imagination, the initiate and the teacher, mistress of secrets and divination.$(br)  What gives her power is not just knowledge or instinct; she is the Queen of love.$(br2)$(l)Divinatory meanings$()$(br)  Loving intelligence, the gift of vision.$(br)  May mean a wise person, possibly mysterious, yet devoted; or someone able to love very intensely without"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "losing their sense of self.$(br2)$(l)Reversed$()$(br)  Uncertainty, vice, dishonor.$(br)  May be someone fearful, especially in connection with love.$(br)  The chance of drinking too deeply from the Waters of fantasy."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 24,
+  "name":"4 - The Emperor",
+  "icon":"tarot:the_emperor",
+  "extra_recipe_mappings": [["tarot:the_emperor",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_4emperor.png"],
+      "title": "4 ▪ The Emperor ▪ ה",
+      "border": false,
+      "text": "       Son of the Morning"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  An old man wears a royal robe over his armor.$(br)  He has a form of the Ankh for his sceptre and a globe in his left hand. He is a crowned monarch - commanding, stately, seated on a throne.$(br)  He is Execution and Realization, the power of this world, here adorned with the highest of its natural attributes.$(br)  He is the vigorous power, to which $(l:patchouli:major/3the_empress)The Empress$() responds, and in this sense is he who seeks to remove the Veil of"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Nature; yet she remains undefiled.$(br)  As $(l:patchouli:major/3the_empress)The Empress$()'s consort, he brings law and human society to her abundant nature; the sign of structured order applied to fertile chaos.$(br)  It should be understood that these couple of cards do not precisely represent a married couple, though this state is implied.$(br)  On the surface, they stand for mundane royalty, uplifted on the seats of the mighty; but above this there is another"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "meaning: the command of the subtle thrones.$(br)  He is the lordship of thought rather than of feeling.$(br2)$(l)Divinatory meanings$()$(br)  Law, structure, the social order; these may be less powerful than they seem.$(br)  May also mean fatherhood.$(br2)$(l)Reversed$()$(br)  Whatever undermines law and order.$(br)  Discovering who is pulling the strings."
+    }
+  ]
+}

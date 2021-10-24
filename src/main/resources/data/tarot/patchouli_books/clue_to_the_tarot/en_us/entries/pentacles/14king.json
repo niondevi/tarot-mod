@@ -1,0 +1,34 @@
+{
+  "category":"pentacles",
+  "read_by_default": true,
+  "sortnum": 124,
+  "name":"King of Pentacles",
+  "icon":"tarot:king_of_pentacles",
+  "extra_recipe_mappings": [["tarot:king_of_pentacles",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_penking.png"],
+      "title": "⍟ King of Pentacles ⍟",
+      "border": false,
+      "text": "  King of the Chariot of Earth$(br)       $(m)∆$() Air of $(m)∇$() Earth"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The King of Pentacles sits on a throne embellished with carvings of bulls. He holds the sign of his suit, a coin emblazoned with the pentagram.$(br)  His meditative demeanor, though with a hint of courage, displays his somewhat lethargic tendency.$(br)  Grapes and vines adorn his robe, symbolizing the fruits of nature, but also the wine of celebration and religion.$(br)  His castle sits behind him, a symbol of all he has built through his efforts and"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "determination.$(br)  Traditionally, the King of Pentacles is a master of wealth, self-discipline and control.$(br)  He is therefore very serious about material security, he is proud of his achievements and likes to boast his prized possessions and wealth.$(br)  He makes little effort to understand ideas which are beyond his scope. His preoccupation to his domain blinds him to what is beyond his reaches or what could"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "have been.$(br)  He does not seek out battle; he is more of a overseer, less of a conqueror. But he is not weak, or passive, he too has had to fight to achieve and protect his kingdom.$(br)  He is the elemental Earth become intelligible.$(br2)$(l)Divinatory meanings$()$(br)  Valor, realizing intelligence, sometimes mathematical gifts.$(br)  Sometimes signifies a person of importance and substance; someone successful, who loves"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "life, and will protect what they have.$(br)  Someone calm, but with deep understanding.$(br2)$(l)Reversed$()$(br)  Vice, weakness, corruption.$(br)  An upheaval in terms of fortune or work.$(br)  The desire for adventure or stimulation."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 37,
+  "name":"17 - The Star",
+  "icon":"tarot:the_star",
+  "extra_recipe_mappings": [["tarot:the_star",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_17star.png"],
+      "title": "17 ▪ The Star ▪ צ",
+      "border": false,
+      "text": "  Dweller Between the Waters"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A great, radiant star of eight rays, surrounded by seven similar lesser stars.$(br)  The young girl here is a representation of eternal youth and beauty.$(br)  Standing at the edge between earth and water, she pours the Water of Life from two great ewers, irrigating sea and land.$(br)  Behind her is rising ground and on the right a verdant tree.$(br)  That which the figure communicates to the living scene is the substance of the"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "heavens and the elements.$(br)  It has been said truly that the mottoes of this card are 'Waters of Life freely' and 'Gifts of the Spirit'. It is a card of hope.$(br)  On other planes it has been certified as immortality and interior light.$(br)  For the majority of prepared minds, the figure will appear as the type of Truth unveiled, glorious in undying beauty, pouring on the waters of the soul some part and measure of her priceless possession."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  But she is in reality the Great Mother which is Greater Understanding, who communicates to the planes that are below in the measure that they can receive her influx. $(br2)$(l)Divinatory meanings$()$(br)  Openness, hope, selflessness, sacrifice.$(br)  Outpouring of feelings.$(br2)$(l)Reversed$()$(br)  Negativity, misunderstanding.$(br)  Holding back emotions."
+    }
+  ]
+}

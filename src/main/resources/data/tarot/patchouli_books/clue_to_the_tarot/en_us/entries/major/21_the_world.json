@@ -1,0 +1,34 @@
+{
+  "category":"major",
+  "read_by_default": true,
+  "sortnum": 41,
+  "name":"21 - The World",
+  "icon":"tarot:the_world",
+  "extra_recipe_mappings": [["tarot:the_world",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_21world_1.png"],
+      "title": "21 ▪ The World ▪ ת",
+      "border": false,
+      "text": "Great One of the Night of Time"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A nude female figure, holding a wand in each hand, is placed in the center of an ellipsis, her legs crossed like those of $(l:patchouli:major/12the_hanged_man)The Hanged Man$(). A beautiful blue cloth twirls around her body as if floating by her own grace.$(br)  At the corners we find those same four animals seen around the $(l:patchouli:major/10wheel_of_fortune)Wheel of Fortune$(), the separate forms of the mythic sphinx: the Human, the Eagle, the Ox, and the Lion.$(br)  This symbol represents Macrocosm and Microcosm, that"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "is to say the Law of the Absolute.$(br)  This final message of the Major Arcana is unchanged - and indeed unchangeable - in respect of its design.$(br)  It represents also the perfection and end of the Cosmos, the secret which is within it, the rapture of the universe when it understands itself in Unity.$(br)  It is further the state of the soul in the consciousness of Divine Vision, reflected from the Self-Knowing Spirit."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  It has many more messages on the macrocosmic side and is, for example, the state of the restored world when the law of manifestation shall have been carried to the highest degree of natural perfection.$(br)  But it is also perhaps, when in the beginning of life all was declared to be good, when the morning stars sang together and all the Children of Unity shouted for joy.$(br)  Lastly, this card has been called by some the Crown of the Magi."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Success, perfection, sublime attainment.$(br)  A sense of oneness with others, or with the world around you.$(br2)$(l)Reversed$()$(br)  Stagnation, cynicism, lack of sensibility.$(br)  Isolation from others or from ideals."
+    }
+  ]
+}

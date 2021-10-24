@@ -1,0 +1,26 @@
+{
+  "category":"wands",
+  "read_by_default": true,
+  "sortnum": 58,
+  "name":"Eight of Wands",
+  "icon":"tarot:eight_of_wands",
+  "extra_recipe_mappings": [["tarot:eight_of_wands",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_wand8.png"],
+      "title": "⎧ Eight of Wands ⎧",
+      "border": false,
+      "text": "      Spirit of Swiftness$(br)  ☿ Mercury in ♐ Sagittarius"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The card represents motion through the immovable - the staves seem static at first, but they are flying though an open field, drawing to the term of their course.$(br)  That which they signify is at hand; it may be even on the threshold.$(br)  They are parallel and equal, suggesting that in life, there are many equal possibilities; we may not need to choose only one and exclude the others.$(br)  Like a painting with only"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "one color, a one tone life is dull, if not incomprehensible.$(br2)$(l)Divinatory meanings$()$(br)  Movement, purpose, things coming to their conclusion.$(br)  Variety of possibilities without the need to choose one over the other.$(br2)$(l)Reversed$()$(br)  Possible delays, internal dispute, stingings of conscience.$(br)  Sometimes, the need to make a choice."
+    }
+  ]
+}

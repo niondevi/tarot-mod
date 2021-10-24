@@ -1,0 +1,30 @@
+{
+  "category":"wands",
+  "read_by_default": true,
+  "sortnum": 59,
+  "name":"Nine of Wands",
+  "icon":"tarot:nine_of_wands",
+  "extra_recipe_mappings": [["tarot:nine_of_wands",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_wand9.png"],
+      "title": "⎧ Nine of Wands ⎧",
+      "border": false,
+      "text": "    Spirit of Great Strength$(br)    ☽ Moon in ♐ Sagittarius"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Behind we see eight staves, erect in orderly disposition, forming a kind of palisade, or cage.$(br)  A figure stands beyond this confinement, leaning upon the ninth staff and has an expectant look, as if looking forward to the next challenge.$(br)  It is not clear if they are on guard outside or maybe just escaped.$(br)  It may symbolize the liberated spirit, or creative truth; release from darkness and confusion. In a way, this"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "card show the completion of a process outlined in the other cards, the liberation into pure energy against opposition. $(br2)$(l)Divinatory meanings$()$(br)  Firm action, release after delay, purity of purpose.$(br)  A single action or piece of knowledge which changes a situation dramatically, especially in the direction of liberation."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Reversed$()$(br)  Confinement, confusion, the need for a fresh way of looking at the situation."
+    }
+  ]
+}

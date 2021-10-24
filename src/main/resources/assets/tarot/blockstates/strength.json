@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tarot:block/strength"
+    },
+    "facing=east": {
+      "model": "tarot:block/strength",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tarot:block/strength",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tarot:block/strength",
+      "y": 270
+    }
+  }
+}

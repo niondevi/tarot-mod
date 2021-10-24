@@ -1,0 +1,9 @@
+{
+  "parent": "tarot:custom/tarotcard",
+  "textures": {
+    "all": "tarot:blocks/swordqueen",
+    "particle": "tarot:blocks/swordqueen",
+    "0": "tarot:blocks/swordqueen",
+    "1": "tarot:blocks/back6"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "category":"pentacles",
+  "read_by_default": true,
+  "sortnum": 117,
+  "name":"Seven of Pentacles",
+  "icon":"tarot:seven_of_pentacles",
+  "extra_recipe_mappings": [["tarot:seven_of_pentacles",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_pen7.png"],
+      "title": "⍟ Seven of Pentacles ⍟",
+      "border": false,
+      "text": "  Spirit of Success Unfulfilled$(br)      ♄ Saturn in ♉ Taurus"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A young person, leaning on their staff, looks intently at seven pentacles attached to a clump of greenery on their right; one would say that these fruits were treasures and that their heart was in them.$(br)  They have worked long and patiently to nurture tiny seeds into this thriving garden and now take a break to enjoy the fruiting of their labor.$(br)  Success is a journey, not a destination, but it is often a tedious and exhausting one.$(br)  At the end of the day, the "
+    },
+    {
+      "type": "patchouli:text",
+      "text": "work is what counts, and even more, what the work produces. $(br2)$(l)Divinatory meanings$()$(br)  Production, fulfillment, though it may be flawed.$(br)  Immersing yourself in your work. Patience, ingenuity and diligence.$(br2)$(l)Reversed$()$(br)  Holding back from committing to something.$(br)  Hard work, without fruition or satisfaction."
+    }
+  ]
+}

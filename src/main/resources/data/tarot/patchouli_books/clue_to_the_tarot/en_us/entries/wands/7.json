@@ -1,0 +1,30 @@
+{
+  "category":"wands",
+  "read_by_default": true,
+  "sortnum": 57,
+  "name":"Seven of Wands",
+  "icon":"tarot:seven_of_wands",
+  "extra_recipe_mappings": [["tarot:seven_of_wands",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_wand7.png"],
+      "title": "⎧ Seven of Wands ⎧",
+      "border": false,
+      "text": "      Spirit of Valour$(br)      ♂ Mars in ♌ Leo"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A young person on a rugged cliff brandishing a staff; six other staves are raised towards them from below.$(br)  It is a card of valour, for, on the surface, six are attacking one, who has, however, the vantage position.$(br)  On the intellectual plane, it signifies discussion, wordy strife; in business - negotiations, war of trade, barter, competition.$(br)  It can mean success, or escaping to safety, for the combatant is on the top and"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "his enemies may be unable to reach him.$(br)  We can think of this card as showing a deeper level of self-understanding beginning to emerge after a burst of activity.$(br)  Again, instead of confidence, we see a tentative testing of purpose and identity.$(br2)$(l)Divinatory meanings$()$(br)  Uncertainty, slow development of awareness, quietness.$(br)  Thinking about issues. A new purpose beginning to emerge."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Reversed$()$(br)  A call for more confidence, greater self-awareness, communication.$(br)  It is also a caution against indecision."
+    }
+  ]
+}

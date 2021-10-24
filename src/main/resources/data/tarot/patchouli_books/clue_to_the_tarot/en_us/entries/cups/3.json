@@ -1,0 +1,26 @@
+{
+  "category":"cups",
+  "read_by_default": true,
+  "sortnum": 73,
+  "name":"Three of Cups",
+  "icon":"tarot:three_of_cups",
+  "extra_recipe_mappings": [["tarot:three_of_cups",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_cup3.png"],
+      "title": "℧ Three of Cups ℧",
+      "border": false,
+      "text": "      Spirit of Abundance$(br)     ☿ Mercury in ♋ Cancer"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  Three people dance together in a garden, their arms entwined, each one holding a cup raised before them as if by people about to drink a toast.$(br)  They each dress a certain way, suggesting people from different backgrounds joining and bonding together while keeping their individuality.$(br)  Different types of crops fruiting close to the earth encircle their gathering."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Divinatory meanings$()$(br)  Friendship, deep connections, sharing, celebration, fulfilment, solace, healing.$(br2)$(l)Reversed$()$(br)  Difficulties between friends, loss of harmony, excess of enjoyment.$(br)  But sometimes independence, achievement, doing things by yourself."
+    }
+  ]
+}

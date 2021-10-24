@@ -1,0 +1,34 @@
+{
+  "category":"swords",
+  "read_by_default": true,
+  "sortnum": 98,
+  "name":"Eight of Swords",
+  "icon":"tarot:eight_of_swords",
+  "extra_recipe_mappings": [["tarot:eight_of_swords",0]],
+
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": ["tarot:textures/book_sword8.png"],
+      "title": "⤝ Eight of Swords ⤝",
+      "border": false,
+      "text": "   Spirit of Shortened Force$(br)     ♃ Jupiter in ♊ Gemini"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  A person is tied in bloody bandages and blindfolded, trapped between swords in a dark field.$(br)  It seems the ambush from the $(l:patchouli:swords/7)previous card$() has now transpired. If they try to move now, they'll get cut.$(br)  Yet it is rather a temporary durance than an irretrievable bondage.$(br)  The bandages can stand here for our efforts to contain our pain.$(br)  Is it an act of decency, even civilization, to bury"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "anger? Or is it repression? Some situations really do require anger.$(br)  How many of us have swallowed anger at injustice because we learned as children not to 'make a scene'? Yet, seething arguments have killed many relationships.$(br)  And what of the other Sword quality, clear thought?$(br)  The blindfold symbolizes confusion, especially the attempt by others to keep us mystified and unable to see our situation factually."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "  The untying of bandages and blindfold would mean a liberation through coherent thinking. $(br2)$(l)Divinatory meanings$()$(br)  Concealing or burying feelings of aggression. Acting polite or nice in a forced way.$(br)  Allowing others to confuse us. Crisis, censure, also sickness.$(br2)$(l)Reversed$()$(br)  Disquiet, difficulty. Releasing anger or other"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "strong emotions.$(br)  Seeing unforeseen things clearly, especially after a period of confusion."
+    }
+  ]
+}

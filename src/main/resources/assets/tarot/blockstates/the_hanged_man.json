@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tarot:block/the_hanged_man"
+    },
+    "facing=east": {
+      "model": "tarot:block/the_hanged_man",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tarot:block/the_hanged_man",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tarot:block/the_hanged_man",
+      "y": 270
+    }
+  }
+}
