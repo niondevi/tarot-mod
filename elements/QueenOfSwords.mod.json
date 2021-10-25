@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_swordqueen.png",
+    "itemTexture": "item_swordqueen",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

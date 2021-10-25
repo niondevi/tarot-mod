@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "tarot:items/item_4emperor.png"
+    "layer0": "tarot:items/item_4emperor"
   }
 }

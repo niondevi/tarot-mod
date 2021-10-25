@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_20judgement.png",
+    "itemTexture": "item_20judgement",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

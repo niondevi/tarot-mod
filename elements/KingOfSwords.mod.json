@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_swordking_1.png",
+    "itemTexture": "item_swordking_1",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

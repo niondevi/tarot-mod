@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_3empress.png",
+    "itemTexture": "item_3empress",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

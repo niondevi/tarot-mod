@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_17star.png",
+    "itemTexture": "item_17star",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

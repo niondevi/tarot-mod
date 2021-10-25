@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_12hangedman.png",
+    "itemTexture": "item_12hangedman",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

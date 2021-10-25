@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_wandqueen.png",
+    "itemTexture": "item_wandqueen",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

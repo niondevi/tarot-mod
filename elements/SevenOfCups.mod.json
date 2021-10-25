@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_cup7.png",
+    "itemTexture": "item_cup7",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_13death.png",
+    "itemTexture": "item_13death",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

@@ -7,9 +7,9 @@ import net.minecraft.util.math.BlockPos;
 import net.minecraft.item.ItemStack;
 import net.minecraft.entity.player.ServerPlayerEntity;
 import net.minecraft.entity.player.PlayerEntity;
-import net.minecraft.entity.monster.WitchEntity;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.Entity;
+import net.minecraft.entity.AgeableEntity;
 import net.minecraft.client.network.play.NetworkPlayerInfo;
 import net.minecraft.client.entity.player.AbstractClientPlayerEntity;
 import net.minecraft.client.Minecraft;
@@ -137,6 +137,8 @@ public class GetRandomCardProcedure {
 		double deck_size = 0;
 		double rnd = 0;
 		double total_cards = 0;
+		double ctr = 0;
+		double missing_ctr = 0;
 		card = (ItemStack.EMPTY);
 		if ((!(TarotModVariables.DISABLE_MINOR_ARCANA && TarotModVariables.DISABLE_MAJOR_ARCANA))) {
 			total_cards = (double) 78;
@@ -167,34 +169,24 @@ public class GetRandomCardProcedure {
 					.getItem() == TarotDeckItem.block)
 					&& ((((entity instanceof LivingEntity) ? ((LivingEntity) entity).getHeldItemMainhand() : ItemStack.EMPTY).getOrCreateTag()
 							.getDouble("missing")) < deck_size))))) {
-				card_tag = (String) (("m") + "" + ((new java.text.DecimalFormat("##").format(rnd))));
-				if ((((entity instanceof LivingEntity) ? ((LivingEntity) entity).getHeldItemMainhand() : ItemStack.EMPTY).getOrCreateTag()
-						.getBoolean(card_tag))) {
-					if (TarotModVariables.DISABLE_MAJOR_ARCANA) {
-						rnd = (double) (rnd - 22);
-					}
-					rnd = (double) (rnd + Math.floor((Math.random() * deck_size)));
-					if ((rnd >= deck_size)) {
-						rnd = (double) (rnd - deck_size);
-					}
-					if (TarotModVariables.DISABLE_MAJOR_ARCANA) {
-						rnd = (double) (rnd + 22);
-					}
-					card_tag = (String) (("m") + "" + ((new java.text.DecimalFormat("##").format(rnd))));
+				ctr = (double) 0;
+				if (TarotModVariables.DISABLE_MAJOR_ARCANA) {
+					ctr = (double) 22;
 				}
-				while ((((entity instanceof LivingEntity) ? ((LivingEntity) entity).getHeldItemMainhand() : ItemStack.EMPTY).getOrCreateTag()
-						.getBoolean(card_tag))) {
-					if (TarotModVariables.DISABLE_MAJOR_ARCANA) {
-						rnd = (double) (rnd - 22);
+				missing_ctr = (double) Math.floor((Math.random()
+						* (deck_size - (((entity instanceof LivingEntity) ? ((LivingEntity) entity).getHeldItemMainhand() : ItemStack.EMPTY)
+								.getOrCreateTag().getDouble("missing")))));
+				for (int index0 = 0; index0 < (int) (deck_size); index0++) {
+					if (((((entity instanceof LivingEntity) ? ((LivingEntity) entity).getHeldItemMainhand() : ItemStack.EMPTY).getOrCreateTag()
+							.getBoolean((("m") + "" + ((new java.text.DecimalFormat("##").format(ctr)))))) == (false))) {
+						if ((missing_ctr <= 0)) {
+							card_tag = (String) (("m") + "" + ((new java.text.DecimalFormat("##").format(ctr))));
+							rnd = (double) ctr;
+							break;
+						}
+						missing_ctr = (double) (missing_ctr - 1);
 					}
-					rnd = (double) (rnd + 1);
-					if ((rnd >= deck_size)) {
-						rnd = (double) (rnd - deck_size);
-					}
-					if (TarotModVariables.DISABLE_MAJOR_ARCANA) {
-						rnd = (double) (rnd + 22);
-					}
-					card_tag = (String) (("m") + "" + ((new java.text.DecimalFormat("##").format(rnd))));
+					ctr = (double) (ctr + 1);
 				}
 				((entity instanceof LivingEntity) ? ((LivingEntity) entity).getHeldItemMainhand() : ItemStack.EMPTY).getOrCreateTag()
 						.putBoolean(card_tag, (true));
@@ -216,7 +208,7 @@ public class GetRandomCardProcedure {
 								.getOrCreateTag().getDouble("missing")) / deck_size) * total_cards));
 				placingFromDeck = (boolean) (true);
 			}
-			if ((((entity instanceof WitchEntity)
+			if ((((entity instanceof AgeableEntity)
 					|| ((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == EnderTarotCardBlock.block))
 					|| ((((entity instanceof LivingEntity) ? ((LivingEntity) entity).getHeldItemMainhand() : ItemStack.EMPTY)
 							.getItem() == TarotDeckItem.block) && (placingFromDeck || (new Object() {

@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_6lovers.png",
+    "itemTexture": "item_6lovers",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

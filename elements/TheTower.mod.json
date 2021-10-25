@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_16tower.png",
+    "itemTexture": "item_16tower",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

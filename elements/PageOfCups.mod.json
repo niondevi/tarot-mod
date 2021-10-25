@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_cuppage.png",
+    "itemTexture": "item_cuppage",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

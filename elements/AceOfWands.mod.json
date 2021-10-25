@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_wandace.png",
+    "itemTexture": "item_wandace",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

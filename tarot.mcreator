@@ -162,7 +162,7 @@
       "type": "tool",
       "sortid": 1,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "tarot_deck",
       "path": "~/Items"
@@ -1452,8 +1452,8 @@
       "block.tarot.ten_of_swords": "Ten of Swords",
       "block.tarot.the_high_priestess": "The High Priestess",
       "block.tarot.the_star": "The Star",
-      "block.tarot.knight_of_pentacles": "Knight of Pentacles",
       "block.tarot.two_of_wands": "Two of Wands",
+      "block.tarot.knight_of_pentacles": "Knight of Pentacles",
       "block.tarot.strength": "Strength",
       "block.tarot.king_of_swords": "King of Swords",
       "block.tarot.king_of_pentacles": "King of Pentacles",
@@ -1592,7 +1592,7 @@
   "workspaceSettings": {
     "modid": "tarot",
     "modName": "Tarot",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Play with Tarot cards and find clues to their occult origins",
     "author": "Nion",
     "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/tarot",
@@ -1607,7 +1607,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
-    "credits": "Arcade Arcanum Tarot Deck by Rose (mozz). Mod made withMCreator \u0026 Blockbench.",
+    "credits": "Arcade Arcanum Tarot Deck by Rose (mozz). Mod made with MCreator \u0026 Blockbench.",
     "modElementsPackage": "codes.nion.tarot",
     "lockBaseModFiles": false
   },

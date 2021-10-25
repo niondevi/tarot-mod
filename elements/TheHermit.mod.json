@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_9hermit.png",
+    "itemTexture": "item_9hermit",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

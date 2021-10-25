@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_pen7.png",
+    "itemTexture": "item_pen7",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

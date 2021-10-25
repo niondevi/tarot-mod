@@ -4,9 +4,9 @@ license="CC BY-NC 4.0"
 
 [[mods]]
 modId="tarot"
-version="1.0.0"
+version="1.0.1"
 displayName="Tarot"
-credits="Arcade Arcanum Tarot Deck by Rose (mozz). Mod made withMCreator & Blockbench."
+credits="Arcade Arcanum Tarot Deck by Rose (mozz). Mod made with MCreator & Blockbench."
 displayURL="https://www.curseforge.com/minecraft/mc-mods/tarot"
 logoFile="logo.png"
 authors="Nion"

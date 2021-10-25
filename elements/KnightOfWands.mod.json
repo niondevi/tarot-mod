@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_wandknight.png",
+    "itemTexture": "item_wandknight",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

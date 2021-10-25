@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_8strength.png",
+    "itemTexture": "item_8strength",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

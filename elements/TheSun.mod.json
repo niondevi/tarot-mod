@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_19sun.png",
+    "itemTexture": "item_19sun",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_penknight.png",
+    "itemTexture": "item_penknight",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

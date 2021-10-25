@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_wandking.png",
+    "itemTexture": "item_wandking",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,

@@ -13,7 +13,7 @@
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "item_sword9.png",
+    "itemTexture": "item_sword9",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
